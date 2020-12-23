@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name's Luca 👋
 
 - 🏋 I'm currently working on an app development template
 - 📬 You can reach me at: luca@appcompany.io
