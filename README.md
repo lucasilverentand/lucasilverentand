@@ -4,6 +4,7 @@
 - 🏋 Working hard on growing my business [OneZero](https://github.com/onezerocompany)
 - 💬 Ask me anything about my apps & projects.
 - 📬 You can reach me at: luca@appcompany.io
+- 📸 My photography is on Instagram [@luca.silverentand](https://instagram.com/luca.silverentand)
 <!--
 **lucasilverentand/lucasilverentand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
