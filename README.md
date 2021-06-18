@@ -1,8 +1,9 @@
 ### Hi there my name's Luca 👋
 
-- 🏋 I'm currently working on an app development template
-- 📬 You can reach me at: luca@appcompany.io
 - ⛄️ Pronouns: he/him
+- 🏋 Working hard on growing my business [OneZero](https://github.com/onezerocompany)
+- 💬 Ask me anything about my apps & projects.
+- 📬 You can reach me at: luca@appcompany.io
 <!--
 **lucasilverentand/lucasilverentand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
