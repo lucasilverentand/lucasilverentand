@@ -1,6 +1,5 @@
 ### Hi there my name's Luca 👋
 
-- ⛄️ Pronouns: he/him
 - 🏋 Working hard on growing my business [OneZero](https://github.com/onezerocompany)
 - 💬 Ask me anything about my apps & projects.
 - 📬 You can reach me at: luca@onezero.company
