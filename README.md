@@ -29,9 +29,17 @@
 
 <div align="center">
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000#gh-dark-mode-only" /><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=default&hide_border=true&bg_color=00000000#gh-light-mode-only" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+</picture>
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000#gh-dark-mode-only" /><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000#gh-light-mode-only" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" />
+</picture>
 
 </div>
 
