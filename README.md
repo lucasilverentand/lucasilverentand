@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner.svg" width="100%" />
+<img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner-v2.svg" width="100%" />
 
 [![GitHub followers](https://img.shields.io/github/followers/lucasilverentand?style=flat&logo=github&label=Followers&color=6E57F7)](https://github.com/lucasilverentand?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/lucasilverentand?style=flat&logo=github&label=Stars&color=6E57F7)](https://github.com/lucasilverentand?tab=repositories)
