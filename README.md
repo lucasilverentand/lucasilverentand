@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner-v2.svg" width="100%" />
+<img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner.png" width="100%" />
 
 [![GitHub followers](https://img.shields.io/github/followers/lucasilverentand?style=flat&logo=github&label=Followers&color=6E57F7)](https://github.com/lucasilverentand?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/lucasilverentand?style=flat&logo=github&label=Stars&color=6E57F7)](https://github.com/lucasilverentand?tab=repositories)
@@ -25,14 +25,25 @@
 - Primary languages: **TypeScript**, **Rust**, **Shell**, **Python**
 - Interests: developer tooling, AI workflows, Kubernetes, home automation
 
+### GitHub Stats
+
+<div align="center">
+
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000#gh-dark-mode-only" /><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=default&hide_border=true&bg_color=00000000#gh-light-mode-only" />
+
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000#gh-dark-mode-only" /><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000#gh-light-mode-only" />
+
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=lucasilverentand&theme=tokyonight&hide_border=true&background=00000000#gh-dark-mode-only" /><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=lucasilverentand&theme=default&hide_border=true&background=00000000#gh-light-mode-only" />
+
+</div>
+
 ### Projects
 
 #### Personal
 
+- [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) — A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals.
 - [**claudeline**](https://github.com/lucasilverentand/claudeline) — Statusline tool for claude
 - [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) — Visual home editor and sensor automation
-- [**claude-discord-bot**](https://github.com/lucasilverentand/claude-discord-bot)
-- [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) — A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals.
 - [**pane**](https://github.com/lucasilverentand/pane)
 - [**skills**](https://github.com/lucasilverentand/skills) — Claude skills that I use on a daily basis
 - [**dot-steward**](https://github.com/lucasilverentand/dot-steward) — Dot files manager
@@ -58,6 +69,8 @@
 - [**devcontainers**](https://github.com/seventwo-studio/devcontainers) — Docker images for github runners, devcontainers and more
 - [**create-or-update-comment**](https://github.com/seventwo-studio/create-or-update-comment)
 - [**zero-ui**](https://github.com/seventwo-studio/zero-ui)
+
+### Contribution Snake
 
 <div align="center">
 <picture>
