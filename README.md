@@ -73,6 +73,13 @@
 ### Contribution Snake
 
 <div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lucasilverentand&theme=tokyonight&hide_border=true&background=00000000" />
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lucasilverentand&theme=default&hide_border=true&background=00000000" />
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=lucasilverentand&theme=default&hide_border=true&background=00000000" />
+</picture>
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasilverentand/lucasilverentand/output/github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasilverentand/lucasilverentand/output/github-snake.svg" />
