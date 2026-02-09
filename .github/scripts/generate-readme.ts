@@ -8,6 +8,7 @@ interface Repo {
   description: string | null;
   html_url: string;
   fork: boolean;
+  archived: boolean;
   pushed_at: string;
 }
 
@@ -33,7 +34,7 @@ async function fetchPublicRepos(
 
     const data: Repo[] = await res.json();
     if (data.length === 0) break;
-    repos.push(...data.filter((r) => !r.fork));
+    repos.push(...data.filter((r) => !r.fork && !r.archived));
     if (data.length < 100) break;
     page++;
   }
