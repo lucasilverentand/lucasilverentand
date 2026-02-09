@@ -61,7 +61,7 @@ const [personalRepos, orgRepos] = await Promise.all([
 
 const readme = `<div align="center">
 
-<img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner.png" width="100%" />
+<img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner-v2.svg" width="100%" />
 
 [![GitHub followers](https://img.shields.io/github/followers/${OWNER}?style=flat&logo=github&label=Followers&color=6E57F7)](https://github.com/${OWNER}?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/${OWNER}?style=flat&logo=github&label=Stars&color=6E57F7)](https://github.com/${OWNER}?tab=repositories)
@@ -89,6 +89,18 @@ const readme = `<div align="center">
 ### GitHub Stats
 
 <div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=${OWNER}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=${OWNER}&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=${OWNER}&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=${OWNER}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=${OWNER}&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${OWNER}&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" />
+</picture>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=${OWNER}&theme=tokyonight&hide_border=true&background=00000000" />
