@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/banner-v2.svg" />
-<source media="(prefers-color-scheme: light)" srcset="assets/banner-v2-light.svg" />
-<img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner-v2.svg" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp" />
+<source media="(prefers-color-scheme: light)" srcset="assets/banner-light.webp" />
+<img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner-dark.webp" width="100%" />
 </picture>
 
 </div>
