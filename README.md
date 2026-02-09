@@ -14,7 +14,11 @@
 - Primary languages: **TypeScript**, **Rust**, **Swift**, **Shell**
 - Interests: developer tooling, iOS apps, AI workflows, Kubernetes, home automation
 
-[![GitHub stars](https://img.shields.io/github/stars/lucasilverentand?style=flat&logo=github&label=Stars&color=6E57F7)](https://github.com/lucasilverentand?tab=repositories) [![Profile views](https://komarev.com/ghpvc/?username=lucasilverentand&color=6E57F7&style=flat&label=Profile+views)](https://github.com/lucasilverentand) [![GitHub sponsors](https://img.shields.io/github/sponsors/lucasilverentand?style=flat&logo=githubsponsors&label=Sponsors&color=6E57F7)](https://github.com/sponsors/lucasilverentand) [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org) [![Swift](https://img.shields.io/badge/Swift-%23F05138?style=flat&logo=swift&logoColor=white)](https://swift.org) [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/luca.silverentand) [![Threads](https://img.shields.io/badge/Threads-%23000000?style=flat&logo=threads&logoColor=white)](https://threads.net/@luca.silverentand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasilverentand)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/luca.silverentand) [![Threads](https://img.shields.io/badge/Threads-%23000000?style=flat&logo=threads&logoColor=white)](https://threads.net/@luca.silverentand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasilverentand)
+
+[![GitHub stars](https://img.shields.io/github/stars/lucasilverentand?style=flat&logo=github&label=Stars&color=6E57F7)](https://github.com/lucasilverentand?tab=repositories) [![Profile views](https://komarev.com/ghpvc/?username=lucasilverentand&color=6E57F7&style=flat&label=Profile+views)](https://github.com/lucasilverentand) [![GitHub sponsors](https://img.shields.io/github/sponsors/lucasilverentand?style=flat&logo=githubsponsors&label=Sponsors&color=6E57F7)](https://github.com/sponsors/lucasilverentand)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org) [![Swift](https://img.shields.io/badge/Swift-%23F05138?style=flat&logo=swift&logoColor=white)](https://swift.org) [![Bun](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=white)](https://bun.sh) [![Claude](https://img.shields.io/badge/Claude-%23D97757?style=flat&logo=claude&logoColor=white)](https://claude.ai) [![macOS](https://img.shields.io/badge/macOS-%23000000?style=flat&logo=macos&logoColor=white)](https://www.apple.com/macos) [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Home Assistant](https://img.shields.io/badge/Home_Assistant-%2318BCF2?style=flat&logo=homeassistant&logoColor=white)](https://www.home-assistant.io) [![Homelab](https://img.shields.io/badge/Homelab-%23F57842?style=flat&logo=homeassistantcommunitystore&logoColor=white)](https://www.reddit.com/r/homelab)
 
 ### GitHub Stats
 
@@ -46,12 +50,10 @@
 - [**kustodian**](https://github.com/lucasilverentand/kustodian) — A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins
 - [**labelwriter-4xl**](https://github.com/lucasilverentand/labelwriter-4xl) — CUPS print server with DYMO LabelWriter 4XL drivers for Kubernetes
 - [**lumo-server**](https://github.com/lucasilverentand/lumo-server) — Minecraft server docker image for Lumo Universe
-- [**spec-mcp**](https://github.com/lucasilverentand/spec-mcp)
 - [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) — Privado VPN SOCKS5 Proxy using WireGuard
 - [**auto-commit**](https://github.com/lucasilverentand/auto-commit) — Automatically commit changed workflow files
 - [**home-automation**](https://github.com/lucasilverentand/home-automation)
 - [**nordvpn-proxy**](https://github.com/lucasilverentand/nordvpn-proxy)
-- [**syno-toolkit**](https://github.com/lucasilverentand/syno-toolkit)
 
 #### [@seventwo-studio](https://github.com/seventwo-studio)
 
