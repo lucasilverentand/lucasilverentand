@@ -1,0 +1,24 @@
+{
+  "httpHeaders": [
+    {
+      "urls": ["https://github.com"],
+      "headers": {
+        "Accept": "text/html"
+      }
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "ignorePatterns": [
+    { "pattern": "^https?://img\\.shields\\.io" },
+    { "pattern": "^https?://komarev\\.com" },
+    { "pattern": "^https?://github-readme-stats\\.vercel\\.app" },
+    { "pattern": "^https?://streak-stats\\.demolab\\.com" },
+    { "pattern": "^https?://(www\\.)?instagram\\.com" },
+    { "pattern": "^https?://(www\\.)?threads\\.net" },
+    { "pattern": "^https?://(www\\.)?linkedin\\.com" },
+    { "pattern": "^https?://(www\\.)?seventwo\\.studio" },
+    { "pattern": "^assets/" }
+  ]
+}

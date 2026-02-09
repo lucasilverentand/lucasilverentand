@@ -1,0 +1,27 @@
+name: Check Links
+
+on:
+  workflow_run:
+    workflows: ["Update README"]
+    types: [completed]
+  pull_request:
+    paths:
+      - "README.md"
+      - ".markdown-link-check.json"
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: tcort/markdown-link-check@v1
+        with:
+          file-name: "README.md"
+          config-file: ".markdown-link-check.json"

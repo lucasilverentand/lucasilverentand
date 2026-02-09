@@ -9,5 +9,8 @@
   "peerDependencies": {
     "typescript": "^5"
   },
+  "scripts": {
+    "check-links": "bunx markdown-link-check README.md --config .markdown-link-check.json"
+  },
   "dependencies": {}
 }
