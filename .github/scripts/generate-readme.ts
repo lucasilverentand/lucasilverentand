@@ -67,28 +67,15 @@ const readme = `<div align="center">
 <img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner-v2.svg" width="100%" />
 </picture>
 
-[![GitHub followers](https://img.shields.io/github/followers/${OWNER}?style=flat&logo=github&label=Followers&color=6E57F7)](https://github.com/${OWNER}?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/${OWNER}?style=flat&logo=github&label=Stars&color=6E57F7)](https://github.com/${OWNER}?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=${OWNER}&color=6E57F7&style=flat&label=Profile+views)](https://github.com/${OWNER})
-[![GitHub sponsors](https://img.shields.io/github/sponsors/${OWNER}?style=flat&logo=githubsponsors&label=Sponsors&color=6E57F7)](https://github.com/sponsors/${OWNER})
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/luca.silverentand)
-[![Threads](https://img.shields.io/badge/Threads-%23000000?style=flat&logo=threads&logoColor=white)](https://threads.net/@luca.silverentand)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasilverentand)
-[![SevenTwo Studio](https://img.shields.io/badge/seventwo.studio-%236E57F7?style=flat&logo=safari&logoColor=white)](https://seventwo.studio)
-
 </div>
 
 ### About Me
 
 - Owner of [@${ORG}](https://github.com/${ORG}) — building apps & websites
-- Primary languages: **TypeScript**, **Rust**, **Shell**, **Python**
-- Interests: developer tooling, AI workflows, Kubernetes, home automation
+- Primary languages: **TypeScript**, **Rust**, **Swift**, **Shell**
+- Interests: developer tooling, iOS apps, AI workflows, Kubernetes, home automation
+
+[![GitHub stars](https://img.shields.io/github/stars/${OWNER}?style=flat&logo=github&label=Stars&color=6E57F7)](https://github.com/${OWNER}?tab=repositories) [![Profile views](https://komarev.com/ghpvc/?username=${OWNER}&color=6E57F7&style=flat&label=Profile+views)](https://github.com/${OWNER}) [![GitHub sponsors](https://img.shields.io/github/sponsors/${OWNER}?style=flat&logo=githubsponsors&label=Sponsors&color=6E57F7)](https://github.com/sponsors/${OWNER}) [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org) [![Swift](https://img.shields.io/badge/Swift-%23F05138?style=flat&logo=swift&logoColor=white)](https://swift.org) [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/luca.silverentand) [![Threads](https://img.shields.io/badge/Threads-%23000000?style=flat&logo=threads&logoColor=white)](https://threads.net/@luca.silverentand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasilverentand)
 
 ### GitHub Stats
 
