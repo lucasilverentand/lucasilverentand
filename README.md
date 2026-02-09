@@ -1,6 +1,10 @@
 <div align="center">
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-v2.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/banner-v2-light.svg" />
 <img alt="Luca Silverentand — Building apps & websites @seventwo-studio" src="assets/banner-v2.svg" width="100%" />
+</picture>
 
 [![GitHub followers](https://img.shields.io/github/followers/lucasilverentand?style=flat&logo=github&label=Followers&color=6E57F7)](https://github.com/lucasilverentand?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/lucasilverentand?style=flat&logo=github&label=Stars&color=6E57F7)](https://github.com/lucasilverentand?tab=repositories)
@@ -28,18 +32,6 @@
 ### GitHub Stats
 
 <div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasilverentand&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" />
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasilverentand&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000" />
-</picture>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lucasilverentand&theme=tokyonight&hide_border=true&background=00000000" />
