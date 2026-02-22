@@ -36,20 +36,19 @@
 
 #### Personal
 
-- [**tkn**](https://github.com/lucasilverentand/tkn) — Token saving cli proxy
 - [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) — A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals.
-- [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) — Visual home editor and sensor automation
-- [**pane**](https://github.com/lucasilverentand/pane)
+- [**canaveral**](https://github.com/lucasilverentand/canaveral) — Package and app publishing automation
+- [**lumo-server**](https://github.com/lucasilverentand/lumo-server) — Minecraft server docker image for Lumo Universe
 - [**kustodian**](https://github.com/lucasilverentand/kustodian) — A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins
+- [**pane**](https://github.com/lucasilverentand/pane)
+- [**tkn**](https://github.com/lucasilverentand/tkn) — Token saving cli proxy
+- [**dot-steward**](https://github.com/lucasilverentand/dot-steward) — Dot files manager
+- [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) — Visual home editor and sensor automation
 - [**unifi-cli**](https://github.com/lucasilverentand/unifi-cli)
 - [**claudeline**](https://github.com/lucasilverentand/claudeline) — Statusline tool for claude
 - [**skills**](https://github.com/lucasilverentand/skills) — Claude skills that I use on a daily basis
-- [**dot-steward**](https://github.com/lucasilverentand/dot-steward) — Dot files manager
-- [**claude-plugins**](https://github.com/lucasilverentand/claude-plugins)
-- [**canaveral**](https://github.com/lucasilverentand/canaveral) — Package and app publishing automation
 - [**project-dash**](https://github.com/lucasilverentand/project-dash) — Dashboard for viewing all repos in a folder
 - [**labelwriter-4xl**](https://github.com/lucasilverentand/labelwriter-4xl) — CUPS print server with DYMO LabelWriter 4XL drivers for Kubernetes
-- [**lumo-server**](https://github.com/lucasilverentand/lumo-server) — Minecraft server docker image for Lumo Universe
 - [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) — Privado VPN SOCKS5 Proxy using WireGuard
 - [**auto-commit**](https://github.com/lucasilverentand/auto-commit) — Automatically commit changed workflow files
 - [**home-automation**](https://github.com/lucasilverentand/home-automation)
@@ -57,8 +56,8 @@
 
 #### [@seventwo-studio](https://github.com/seventwo-studio)
 
-- [**devcontainers**](https://github.com/seventwo-studio/devcontainers) — Docker images for github runners, devcontainers and more
 - [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) — Project scaffolder
+- [**devcontainers**](https://github.com/seventwo-studio/devcontainers) — Docker images for github runners, devcontainers and more
 - [**handbook**](https://github.com/seventwo-studio/handbook) — Handbook for our coding practices
 - [**create-or-update-comment**](https://github.com/seventwo-studio/create-or-update-comment)
 - [**zero-ui**](https://github.com/seventwo-studio/zero-ui)
