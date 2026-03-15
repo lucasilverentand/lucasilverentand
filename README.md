@@ -36,12 +36,14 @@
 
 #### Personal
 
-- [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) — Visual home editor and sensor automation
-- [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) — A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals.
-- [**claudeline**](https://github.com/lucasilverentand/claudeline) — Statusline tool for claude
 - [**pane**](https://github.com/lucasilverentand/pane)
-- [**unifi-cli**](https://github.com/lucasilverentand/unifi-cli)
+- [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) — A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals.
 - [**skills**](https://github.com/lucasilverentand/skills) — Claude skills that I use on a daily basis
+- [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) — Visual home editor and sensor automation
+- [**tarmac**](https://github.com/lucasilverentand/tarmac) — Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon
+- [**apple-music-mcp**](https://github.com/lucasilverentand/apple-music-mcp)
+- [**claudeline**](https://github.com/lucasilverentand/claudeline) — Statusline tool for claude
+- [**unifi-cli**](https://github.com/lucasilverentand/unifi-cli)
 - [**kustodian**](https://github.com/lucasilverentand/kustodian) — A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins
 - [**lumo-server**](https://github.com/lucasilverentand/lumo-server) — Minecraft server docker image for Lumo Universe
 - [**canaveral**](https://github.com/lucasilverentand/canaveral) — Package and app publishing automation
@@ -56,8 +58,8 @@
 
 #### [@seventwo-studio](https://github.com/seventwo-studio)
 
-- [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) — Project scaffolder
 - [**devcontainers**](https://github.com/seventwo-studio/devcontainers) — Docker images for github runners, devcontainers and more
+- [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) — Project scaffolder
 - [**handbook**](https://github.com/seventwo-studio/handbook) — Handbook for our coding practices
 - [**create-or-update-comment**](https://github.com/seventwo-studio/create-or-update-comment)
 - [**zero-ui**](https://github.com/seventwo-studio/zero-ui)
