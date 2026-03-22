@@ -36,18 +36,18 @@
 
 #### Personal
 
+- [**claudeline**](https://github.com/lucasilverentand/claudeline) — Statusline tool for claude
+- [**skills**](https://github.com/lucasilverentand/skills) — Claude skills that I use on a daily basis
 - [**pane**](https://github.com/lucasilverentand/pane)
 - [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) — A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals.
-- [**skills**](https://github.com/lucasilverentand/skills) — Claude skills that I use on a daily basis
+- [**unifi-cli**](https://github.com/lucasilverentand/unifi-cli)
+- [**tkn**](https://github.com/lucasilverentand/tkn) — Token saving cli proxy
+- [**canaveral**](https://github.com/lucasilverentand/canaveral) — Package and app publishing automation
+- [**apple-music-mcp**](https://github.com/lucasilverentand/apple-music-mcp)
+- [**kustodian**](https://github.com/lucasilverentand/kustodian) — A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins
 - [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) — Visual home editor and sensor automation
 - [**tarmac**](https://github.com/lucasilverentand/tarmac) — Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon
-- [**apple-music-mcp**](https://github.com/lucasilverentand/apple-music-mcp)
-- [**claudeline**](https://github.com/lucasilverentand/claudeline) — Statusline tool for claude
-- [**unifi-cli**](https://github.com/lucasilverentand/unifi-cli)
-- [**kustodian**](https://github.com/lucasilverentand/kustodian) — A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins
 - [**lumo-server**](https://github.com/lucasilverentand/lumo-server) — Minecraft server docker image for Lumo Universe
-- [**canaveral**](https://github.com/lucasilverentand/canaveral) — Package and app publishing automation
-- [**tkn**](https://github.com/lucasilverentand/tkn) — Token saving cli proxy
 - [**dot-steward**](https://github.com/lucasilverentand/dot-steward) — Dot files manager
 - [**project-dash**](https://github.com/lucasilverentand/project-dash) — Dashboard for viewing all repos in a folder
 - [**labelwriter-4xl**](https://github.com/lucasilverentand/labelwriter-4xl) — CUPS print server with DYMO LabelWriter 4XL drivers for Kubernetes
@@ -58,9 +58,12 @@
 
 #### [@seventwo-studio](https://github.com/seventwo-studio)
 
-- [**devcontainers**](https://github.com/seventwo-studio/devcontainers) — Docker images for github runners, devcontainers and more
-- [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) — Project scaffolder
 - [**handbook**](https://github.com/seventwo-studio/handbook) — Handbook for our coding practices
+- [**clusage**](https://github.com/seventwo-studio/clusage) — macOS menu bar app to track Claude API usage across multiple accounts
+- [**runner**](https://github.com/seventwo-studio/runner) — Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro
+- [**devcontainers**](https://github.com/seventwo-studio/devcontainers) — Docker images for github runners, devcontainers and more
+- [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) — Homebrew tap for seventwo-studio apps
+- [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) — Project scaffolder
 - [**create-or-update-comment**](https://github.com/seventwo-studio/create-or-update-comment)
 - [**zero-ui**](https://github.com/seventwo-studio/zero-ui)
 
