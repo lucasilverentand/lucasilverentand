@@ -44,15 +44,12 @@ async function fetchPublicRepos(
   );
 }
 
-function formatRepoList(repos: Repo[], owner: string): string {
-  return repos
-    .filter((r) => r.name !== owner && !r.name.startsWith("."))
-    .map((r) =>
-      r.description
-        ? `- [**${r.name}**](${r.html_url}) — ${r.description}`
-        : `- [**${r.name}**](${r.html_url})`
-    )
-    .join("\n");
+function formatRepoTable(repos: Repo[], owner: string): string {
+  const filtered = repos.filter((r) => r.name !== owner && !r.name.startsWith("."));
+  const rows = filtered.map(
+    (r) => `| [**${r.name}**](${r.html_url}) | ${r.description ?? ""} |`
+  );
+  return ["| Project | Description |", "| --- | --- |", ...rows].join("\n");
 }
 
 const [personalRepos, orgRepos] = await Promise.all([
@@ -98,11 +95,11 @@ const readme = `<div align="center">
 
 #### Personal
 
-${formatRepoList(personalRepos, OWNER)}
+${formatRepoTable(personalRepos, OWNER)}
 
 #### [@${ORG}](https://github.com/${ORG})
 
-${formatRepoList(orgRepos, ORG)}
+${formatRepoTable(orgRepos, ORG)}
 
 ### Contributions
 

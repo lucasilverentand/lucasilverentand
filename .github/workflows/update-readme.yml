@@ -1,6 +1,12 @@
 name: Update README
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/generate-readme.ts"
+      - ".github/workflows/update-readme.yml"
+      - "assets/**"
   schedule:
     - cron: "0 2 * * *" # Every night at 02:00 UTC (3am CET)
   workflow_dispatch:
