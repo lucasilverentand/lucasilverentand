@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "10 2 * * *" # Every night at 02:10 UTC (3am CET, after README update)
   workflow_dispatch:
 
 permissions:
@@ -14,18 +14,17 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: lucasilverentand
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#6E57F7&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: lucasilverentand
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

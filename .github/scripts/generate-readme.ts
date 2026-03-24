@@ -104,13 +104,13 @@ ${formatRepoList(personalRepos, OWNER)}
 
 ${formatRepoList(orgRepos, ORG)}
 
-### Contribution Snake
+### Contributions
 
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/${OWNER}/${OWNER}/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/${OWNER}/${OWNER}/output/github-snake.svg" />
-<img alt="Contribution Snake" src="https://raw.githubusercontent.com/${OWNER}/${OWNER}/output/github-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/${OWNER}/${OWNER}/output/profile-night-view.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/${OWNER}/${OWNER}/output/profile-green-animate.svg" />
+<img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/${OWNER}/${OWNER}/output/profile-green-animate.svg" />
 </picture>
 </div>
 `;

@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 22 * * 0" # Every Sunday at 22:00 UTC
+    - cron: "0 2 * * *" # Every night at 02:00 UTC (3am CET)
   workflow_dispatch:
 
 permissions:
