@@ -38,14 +38,15 @@
 
 | Project | Description |
 | --- | --- |
+| [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
+| [**pane**](https://github.com/lucasilverentand/pane) | Rust TUI agent manager with daemon, protocol, and terminal interface |
 | [**tkn**](https://github.com/lucasilverentand/tkn) | Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage |
 | [**skills**](https://github.com/lucasilverentand/skills) | 72 Claude Code skills organized into 16 plugins and 7 intent-based bundles |
-| [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
 | [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
-| [**pane**](https://github.com/lucasilverentand/pane) | Rust TUI agent manager with daemon, protocol, and terminal interface |
 | [**unifi-cli**](https://github.com/lucasilverentand/unifi-cli) | CLI and MCP server for the UniFi Network API with 67 auto-generated commands |
 | [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
+| [**clusage**](https://github.com/lucasilverentand/clusage) | macOS menu bar app to track Claude API usage across multiple accounts |
 | [**apple-music-mcp**](https://github.com/lucasilverentand/apple-music-mcp) | MCP server for controlling Apple Music from Claude Code and other AI assistants |
 | [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
@@ -63,12 +64,10 @@
 | --- | --- |
 | [**handbook**](https://github.com/seventwo-studio/handbook) | SevenTwo Studio engineering principles and coding practices |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
-| [**clusage**](https://github.com/seventwo-studio/clusage) | macOS menu bar app to track Claude API usage across multiple accounts |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
 | [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) | Bun CLI scaffolder for production-ready Cloudflare Workers monorepo projects |
 | [**create-or-update-comment**](https://github.com/seventwo-studio/create-or-update-comment) | GitHub Action to create or update a comment on a pull request |
-| [**zero-ui**](https://github.com/seventwo-studio/zero-ui) | Dart UI component library for Flutter applications |
 
 ### Contributions
 
