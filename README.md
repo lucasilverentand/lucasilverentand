@@ -39,6 +39,8 @@
 | Project | Description |
 | --- | --- |
 | [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
+| [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
+| [**clusage**](https://github.com/lucasilverentand/clusage) | macOS menu bar app to track Claude API usage across multiple accounts |
 | [**tkn**](https://github.com/lucasilverentand/tkn) | Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage |
 | [**pane**](https://github.com/lucasilverentand/pane) | Rust TUI agent manager with daemon, protocol, and terminal interface |
 | [**skills**](https://github.com/lucasilverentand/skills) | 72 Claude Code skills organized into 16 plugins and 7 intent-based bundles |
@@ -46,10 +48,8 @@
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**unifi-cli**](https://github.com/lucasilverentand/unifi-cli) | CLI and MCP server for the UniFi Network API with 67 auto-generated commands |
 | [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
-| [**clusage**](https://github.com/lucasilverentand/clusage) | macOS menu bar app to track Claude API usage across multiple accounts |
 | [**apple-music-mcp**](https://github.com/lucasilverentand/apple-music-mcp) | MCP server for controlling Apple Music from Claude Code and other AI assistants |
 | [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
-| [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**lumo-server**](https://github.com/lucasilverentand/lumo-server) | Docker image for running a modded Minecraft server with backup and management scripts |
 | [**dot-steward**](https://github.com/lucasilverentand/dot-steward) | Rust CLI for declarative dotfile management with symlink tracking |
 | [**labelwriter-4xl**](https://github.com/lucasilverentand/labelwriter-4xl) | CUPS print server with DYMO LabelWriter 4XL drivers for Kubernetes |
