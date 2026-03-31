@@ -39,6 +39,7 @@
 | Project | Description |
 | --- | --- |
 | [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
+| [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**clusage**](https://github.com/lucasilverentand/clusage) | macOS menu bar app to track Claude API usage across multiple accounts |
 | [**tkn**](https://github.com/lucasilverentand/tkn) | Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage |
