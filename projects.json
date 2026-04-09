@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T13:07:22.527Z",
+  "generated_at": "2026-04-09T13:30:19.514Z",
   "count": 35,
   "projects": [
     {
@@ -22,7 +22,18 @@
       "updated_at": null,
       "source": "published-app",
       "platform": "ios",
-      "app_store_url": "https://apps.apple.com/app/headhigh/id6499446045"
+      "app_store_url": "https://apps.apple.com/app/headhigh/id6499446045",
+      "tags": {
+        "type": [
+          "app"
+        ],
+        "framework": [
+          "swiftui"
+        ],
+        "language": [
+          "swift"
+        ]
+      }
     },
     {
       "name": "lucasilverentand",
@@ -35,8 +46,13 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-04-09T13:07:11Z",
-      "source": "github"
+      "updated_at": "2026-04-09T13:07:23Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
     },
     {
       "name": "skills",
@@ -45,12 +61,21 @@
       "url": "https://github.com/lucasilverentand/skills",
       "homepage": null,
       "language": "TypeScript",
-      "stars": 2,
+      "stars": 3,
       "topics": [],
       "license": null,
       "created_at": "2026-01-23T22:58:31Z",
       "updated_at": "2026-04-09T12:39:34Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
     },
     {
       "name": "lucasilverentand.com",
@@ -64,7 +89,18 @@
       "license": null,
       "created_at": "2026-03-30T15:46:23Z",
       "updated_at": "2026-04-09T12:04:42Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "website"
+        ],
+        "framework": [
+          "astro"
+        ],
+        "language": [
+          "typescript"
+        ]
+      }
     },
     {
       "name": "claudeline",
@@ -82,7 +118,16 @@
       "license": "MIT",
       "created_at": "2026-02-01T01:25:48Z",
       "updated_at": "2026-04-09T11:46:02Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
     },
     {
       "name": "lumo-optimized",
@@ -105,7 +150,18 @@
       "license": "NOASSERTION",
       "created_at": "2025-12-13T15:18:55Z",
       "updated_at": "2026-04-09T02:58:16Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "modpack"
+        ],
+        "framework": [
+          "fabric"
+        ],
+        "language": [
+          "javascript"
+        ]
+      }
     },
     {
       "name": "tkn",
@@ -119,7 +175,16 @@
       "license": "MIT",
       "created_at": "2026-02-12T17:23:40Z",
       "updated_at": "2026-04-08T13:17:15Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "clusage",
@@ -139,7 +204,18 @@
       "license": "MIT",
       "created_at": "2026-03-02T21:22:36Z",
       "updated_at": "2026-04-08T12:07:38Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "app"
+        ],
+        "framework": [
+          "swiftui"
+        ],
+        "language": [
+          "swift"
+        ]
+      }
     },
     {
       "name": "kustodian",
@@ -153,7 +229,16 @@
       "license": "MIT",
       "created_at": "2025-12-29T00:57:16Z",
       "updated_at": "2026-04-08T09:20:59Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
     },
     {
       "name": "canaveral",
@@ -167,7 +252,16 @@
       "license": "MIT",
       "created_at": "2026-01-23T13:48:27Z",
       "updated_at": "2026-04-07T17:54:20Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "cubby",
@@ -181,7 +275,16 @@
       "license": "MIT",
       "created_at": "2026-03-20T09:46:10Z",
       "updated_at": "2026-04-06T15:39:53Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "library"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "bid",
@@ -195,7 +298,16 @@
       "license": "MIT",
       "created_at": "2026-03-20T09:46:02Z",
       "updated_at": "2026-04-05T19:37:15Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "library"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "pane",
@@ -209,7 +321,17 @@
       "license": null,
       "created_at": "2026-02-04T20:36:28Z",
       "updated_at": "2026-04-05T17:50:18Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli",
+          "app"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "runner",
@@ -228,7 +350,16 @@
       "license": null,
       "created_at": "2026-03-19T18:17:31Z",
       "updated_at": "2026-04-03T10:10:05Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
     },
     {
       "name": "tarmac",
@@ -242,7 +373,18 @@
       "license": null,
       "created_at": "2026-03-12T11:00:29Z",
       "updated_at": "2026-03-26T16:10:04Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "app"
+        ],
+        "framework": [
+          "swiftui"
+        ],
+        "language": [
+          "swift"
+        ]
+      }
     },
     {
       "name": "handbook",
@@ -260,7 +402,18 @@
       "license": null,
       "created_at": "2025-11-20T16:04:06Z",
       "updated_at": "2026-03-24T12:44:58Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "website"
+        ],
+        "framework": [
+          "astro"
+        ],
+        "language": [
+          "mdx"
+        ]
+      }
     },
     {
       "name": "unifi-cli",
@@ -274,7 +427,17 @@
       "license": "MIT",
       "created_at": "2026-02-05T22:06:58Z",
       "updated_at": "2026-03-20T19:49:48Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli",
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
     },
     {
       "name": "apple-music-mcp",
@@ -288,7 +451,16 @@
       "license": null,
       "created_at": "2026-03-10T23:16:33Z",
       "updated_at": "2026-03-20T18:20:58Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
     },
     {
       "name": "contour",
@@ -302,7 +474,16 @@
       "license": "MIT",
       "created_at": "2026-03-20T09:46:09Z",
       "updated_at": "2026-03-20T10:11:55Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "library"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "silo",
@@ -316,7 +497,16 @@
       "license": "MIT",
       "created_at": "2026-03-20T09:46:13Z",
       "updated_at": "2026-03-20T09:52:35Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "library"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "circuit",
@@ -330,7 +520,16 @@
       "license": "MIT",
       "created_at": "2025-11-14T16:57:25Z",
       "updated_at": "2026-03-20T09:51:45Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "library"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "screen",
@@ -344,7 +543,16 @@
       "license": "MIT",
       "created_at": "2026-03-20T09:46:12Z",
       "updated_at": "2026-03-20T09:51:22Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "library"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "devcontainers",
@@ -362,7 +570,16 @@
       "license": "MIT",
       "created_at": "2024-02-07T16:09:24Z",
       "updated_at": "2026-03-19T18:58:59Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
     },
     {
       "name": "homebrew-tap",
@@ -380,7 +597,16 @@
       "license": null,
       "created_at": "2026-03-16T12:55:22Z",
       "updated_at": "2026-03-16T12:55:33Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "config"
+        ],
+        "framework": [],
+        "language": [
+          "ruby"
+        ]
+      }
     },
     {
       "name": "ha-inhabit",
@@ -399,7 +625,18 @@
       "license": "MIT",
       "created_at": "2026-01-28T23:32:01Z",
       "updated_at": "2026-03-15T22:31:05Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [
+          "home-assistant"
+        ],
+        "language": [
+          "python"
+        ]
+      }
     },
     {
       "name": "lumo-server",
@@ -413,7 +650,17 @@
       "license": null,
       "created_at": "2025-12-14T18:06:19Z",
       "updated_at": "2026-02-28T23:14:27Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "python",
+          "shell"
+        ]
+      }
     },
     {
       "name": "create-seventwo",
@@ -434,7 +681,18 @@
       "license": "MIT",
       "created_at": "2026-01-28T22:39:49Z",
       "updated_at": "2026-02-19T15:17:21Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [
+          "cloudflare-workers"
+        ],
+        "language": [
+          "typescript"
+        ]
+      }
     },
     {
       "name": "dot-steward",
@@ -448,7 +706,16 @@
       "license": null,
       "created_at": "2025-08-29T10:43:39Z",
       "updated_at": "2026-02-17T18:18:17Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
     },
     {
       "name": "labelwriter-4xl",
@@ -462,7 +729,16 @@
       "license": null,
       "created_at": "2025-12-29T00:42:28Z",
       "updated_at": "2026-01-23T16:35:11Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
     },
     {
       "name": "privado-proxy",
@@ -476,7 +752,16 @@
       "license": null,
       "created_at": "2025-12-22T20:28:38Z",
       "updated_at": "2025-12-26T23:18:54Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
     },
     {
       "name": "auto-commit",
@@ -490,7 +775,16 @@
       "license": "MIT",
       "created_at": "2025-09-01T17:32:48Z",
       "updated_at": "2025-09-01T22:39:36Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "action"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
     },
     {
       "name": "home-automation",
@@ -504,7 +798,18 @@
       "license": null,
       "created_at": "2024-12-07T16:58:18Z",
       "updated_at": "2025-04-06T20:46:55Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "config"
+        ],
+        "framework": [
+          "home-assistant"
+        ],
+        "language": [
+          "yaml"
+        ]
+      }
     },
     {
       "name": "create-or-update-comment",
@@ -522,7 +827,16 @@
       "license": null,
       "created_at": "2024-08-09T17:47:57Z",
       "updated_at": "2024-08-09T22:01:39Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "action"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
     },
     {
       "name": "nordvpn-proxy",
@@ -536,7 +850,16 @@
       "license": null,
       "created_at": "2024-01-11T20:13:23Z",
       "updated_at": "2024-07-23T19:03:00Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
     },
     {
       "name": ".github",
@@ -553,7 +876,16 @@
       "license": "MIT",
       "created_at": "2021-06-18T22:20:02Z",
       "updated_at": "2023-04-19T15:35:21Z",
-      "source": "github"
+      "source": "github",
+      "tags": {
+        "type": [
+          "config"
+        ],
+        "framework": [],
+        "language": [
+          "markdown"
+        ]
+      }
     }
   ]
 }

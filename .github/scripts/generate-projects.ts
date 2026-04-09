@@ -42,6 +42,12 @@ interface PublishedApp {
   topics?: string[];
 }
 
+interface Tags {
+  type: string[];
+  framework: string[];
+  language: string[];
+}
+
 interface Project {
   name: string;
   description: string | null;
@@ -58,6 +64,7 @@ interface Project {
   platform?: string;
   app_store_url?: string;
   play_store_url?: string;
+  tags: Tags;
 }
 
 async function fetchPublicRepos(
@@ -72,7 +79,6 @@ async function fetchPublicRepos(
     const res = await fetch(url, { headers });
 
     if (!res.ok) {
-      // Org might not exist or have no public repos
       if (res.status === 404) return [];
       console.warn(`Failed to fetch ${type}/${owner}: ${res.status}`);
       return repos;
@@ -96,22 +102,43 @@ const reposByOwner = await Promise.all(
   }))
 );
 
+// Load tag overrides
+const tagOverrides: Record<string, Tags> = JSON.parse(
+  readFileSync("project-tags.json", "utf-8")
+);
+
+function resolveTags(key: string, apiLanguage: string | null): Tags {
+  const override = tagOverrides[key];
+  if (override) return override;
+
+  // Fallback: derive language from GitHub API
+  return {
+    type: [],
+    framework: [],
+    language: apiLanguage ? [apiLanguage.toLowerCase()] : [],
+  };
+}
+
 // Convert GitHub repos to projects
 const ghProjects: Project[] = reposByOwner.flatMap(({ repos }) =>
-  repos.map((r) => ({
-    name: r.name,
-    description: r.description,
-    owner: r.full_name.split("/")[0],
-    url: r.html_url,
-    homepage: r.homepage || null,
-    language: r.language,
-    stars: r.stargazers_count,
-    topics: r.topics ?? [],
-    license: r.license?.spdx_id ?? null,
-    created_at: r.created_at,
-    updated_at: r.pushed_at,
-    source: "github" as const,
-  }))
+  repos.map((r) => {
+    const key = `${r.full_name.split("/")[0]}/${r.name}`;
+    return {
+      name: r.name,
+      description: r.description,
+      owner: r.full_name.split("/")[0],
+      url: r.html_url,
+      homepage: r.homepage || null,
+      language: r.language,
+      stars: r.stargazers_count,
+      topics: r.topics ?? [],
+      license: r.license?.spdx_id ?? null,
+      created_at: r.created_at,
+      updated_at: r.pushed_at,
+      source: "github" as const,
+      tags: resolveTags(key, r.language),
+    };
+  })
 );
 
 // Load published apps (private repos with public products)
@@ -119,23 +146,27 @@ const publishedApps: PublishedApp[] = JSON.parse(
   readFileSync("published-apps.json", "utf-8")
 );
 
-const appProjects: Project[] = publishedApps.map((app) => ({
-  name: app.name,
-  description: app.description,
-  owner: app.owner,
-  url: null,
-  homepage: app.homepage ?? null,
-  language: null,
-  stars: 0,
-  topics: app.topics ?? [],
-  license: null,
-  created_at: null,
-  updated_at: null,
-  source: "published-app" as const,
-  platform: app.platform,
-  ...(app.app_store_url && { app_store_url: app.app_store_url }),
-  ...(app.play_store_url && { play_store_url: app.play_store_url }),
-}));
+const appProjects: Project[] = publishedApps.map((app) => {
+  const key = `${app.owner}/${app.name}`;
+  return {
+    name: app.name,
+    description: app.description,
+    owner: app.owner,
+    url: null,
+    homepage: app.homepage ?? null,
+    language: null,
+    stars: 0,
+    topics: app.topics ?? [],
+    license: null,
+    created_at: null,
+    updated_at: null,
+    source: "published-app" as const,
+    platform: app.platform,
+    ...(app.app_store_url && { app_store_url: app.app_store_url }),
+    ...(app.play_store_url && { play_store_url: app.play_store_url }),
+    tags: resolveTags(key, null),
+  };
+});
 
 // Merge — published apps override any matching GitHub repo by name+owner
 const appKeys = new Set(appProjects.map((a) => `${a.owner}/${a.name}`));
@@ -152,6 +183,33 @@ merged.sort((a, b) => {
   return db - da;
 });
 
+// Validation
+const warnings: string[] = [];
+for (const project of merged) {
+  const key = `${project.owner}/${project.name}`;
+  if (!tagOverrides[key]) {
+    warnings.push(`${key}: no entry in project-tags.json`);
+  } else {
+    if (project.tags.type.length === 0) {
+      warnings.push(`${key}: missing type tag`);
+    }
+    if (project.tags.language.length === 0) {
+      warnings.push(`${key}: missing language tag`);
+    }
+  }
+}
+
+if (warnings.length > 0) {
+  console.warn(`\n⚠ Tag validation warnings (${warnings.length}):`);
+  for (const w of warnings) console.warn(`  - ${w}`);
+}
+
+const strict = process.argv.includes("--strict");
+if (strict && warnings.length > 0) {
+  console.error("\n✗ Strict mode: failing due to tag warnings");
+  process.exit(1);
+}
+
 const output = {
   generated_at: new Date().toISOString(),
   count: merged.length,
@@ -160,5 +218,5 @@ const output = {
 
 writeFileSync("projects.json", JSON.stringify(output, null, 2));
 console.log(
-  `Generated projects.json with ${ghProjects.length} public repos and ${appProjects.length} published apps (${merged.length} total)`
+  `\nGenerated projects.json with ${ghProjects.length} public repos and ${appProjects.length} published apps (${merged.length} total)`
 );

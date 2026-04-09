@@ -1,0 +1,172 @@
+{
+  "seventwo-studio/HeadHigh": {
+    "type": ["app"],
+    "framework": ["swiftui"],
+    "language": ["swift"]
+  },
+  "lucasilverentand/skills": {
+    "type": ["plugin"],
+    "framework": [],
+    "language": ["typescript"]
+  },
+  "lucasilverentand/lucasilverentand.com": {
+    "type": ["website"],
+    "framework": ["astro"],
+    "language": ["typescript"]
+  },
+  "lucasilverentand/claudeline": {
+    "type": ["plugin"],
+    "framework": [],
+    "language": ["typescript"]
+  },
+  "lucasilverentand/lumo-optimized": {
+    "type": ["modpack"],
+    "framework": ["fabric"],
+    "language": ["javascript"]
+  },
+  "lucasilverentand/tkn": {
+    "type": ["cli"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "lucasilverentand/clusage": {
+    "type": ["app"],
+    "framework": ["swiftui"],
+    "language": ["swift"]
+  },
+  "lucasilverentand/kustodian": {
+    "type": ["cli"],
+    "framework": [],
+    "language": ["typescript"]
+  },
+  "lucasilverentand/canaveral": {
+    "type": ["cli"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "blankly-app/cubby": {
+    "type": ["library"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "blankly-app/bid": {
+    "type": ["library"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "lucasilverentand/pane": {
+    "type": ["cli", "app"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "seventwo-studio/runner": {
+    "type": ["container"],
+    "framework": [],
+    "language": ["shell"]
+  },
+  "lucasilverentand/tarmac": {
+    "type": ["app"],
+    "framework": ["swiftui"],
+    "language": ["swift"]
+  },
+  "seventwo-studio/handbook": {
+    "type": ["website"],
+    "framework": ["astro"],
+    "language": ["mdx"]
+  },
+  "lucasilverentand/unifi-cli": {
+    "type": ["cli", "plugin"],
+    "framework": [],
+    "language": ["typescript"]
+  },
+  "lucasilverentand/apple-music-mcp": {
+    "type": ["plugin"],
+    "framework": [],
+    "language": ["typescript"]
+  },
+  "blankly-app/contour": {
+    "type": ["library"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "blankly-app/silo": {
+    "type": ["library"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "blankly-app/circuit": {
+    "type": ["library"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "blankly-app/screen": {
+    "type": ["library"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "seventwo-studio/devcontainers": {
+    "type": ["container"],
+    "framework": [],
+    "language": ["shell"]
+  },
+  "seventwo-studio/homebrew-tap": {
+    "type": ["config"],
+    "framework": [],
+    "language": ["ruby"]
+  },
+  "lucasilverentand/ha-inhabit": {
+    "type": ["plugin"],
+    "framework": ["home-assistant"],
+    "language": ["python"]
+  },
+  "lucasilverentand/lumo-server": {
+    "type": ["container"],
+    "framework": [],
+    "language": ["python", "shell"]
+  },
+  "seventwo-studio/create-seventwo": {
+    "type": ["cli"],
+    "framework": ["cloudflare-workers"],
+    "language": ["typescript"]
+  },
+  "lucasilverentand/dot-steward": {
+    "type": ["cli"],
+    "framework": [],
+    "language": ["rust"]
+  },
+  "lucasilverentand/labelwriter-4xl": {
+    "type": ["container"],
+    "framework": [],
+    "language": ["shell"]
+  },
+  "lucasilverentand/privado-proxy": {
+    "type": ["container"],
+    "framework": [],
+    "language": ["shell"]
+  },
+  "lucasilverentand/auto-commit": {
+    "type": ["action"],
+    "framework": [],
+    "language": ["shell"]
+  },
+  "lucasilverentand/home-automation": {
+    "type": ["config"],
+    "framework": ["home-assistant"],
+    "language": ["yaml"]
+  },
+  "seventwo-studio/create-or-update-comment": {
+    "type": ["action"],
+    "framework": [],
+    "language": ["typescript"]
+  },
+  "lucasilverentand/nordvpn-proxy": {
+    "type": ["container"],
+    "framework": [],
+    "language": ["shell"]
+  },
+  "seventwo-studio/.github": {
+    "type": ["config"],
+    "framework": [],
+    "language": ["markdown"]
+  }
+}

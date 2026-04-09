@@ -8,6 +8,7 @@ on:
       - ".github/scripts/generate-projects.ts"
       - ".github/workflows/update-readme.yml"
       - "published-apps.json"
+      - "project-tags.json"
       - "assets/**"
   schedule:
     - cron: "0 2 * * *" # Every night at 02:00 UTC (3am CET)
