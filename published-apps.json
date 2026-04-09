@@ -1,0 +1,11 @@
+[
+  {
+    "name": "HeadHigh",
+    "description": "Real-time posture correction using AirPods motion data",
+    "owner": "seventwo-studio",
+    "platform": "ios",
+    "app_store_url": "https://apps.apple.com/app/headhigh/id6499446045",
+    "homepage": "https://apps.apple.com/app/headhigh/id6499446045",
+    "topics": ["ios", "swift", "swiftui", "airpods", "posture"]
+  }
+]

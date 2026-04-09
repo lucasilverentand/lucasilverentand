@@ -5,7 +5,9 @@ on:
     branches: [main]
     paths:
       - ".github/scripts/generate-readme.ts"
+      - ".github/scripts/generate-projects.ts"
       - ".github/workflows/update-readme.yml"
+      - "published-apps.json"
       - "assets/**"
   schedule:
     - cron: "0 2 * * *" # Every night at 02:00 UTC (3am CET)
@@ -30,11 +32,16 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: bun .github/scripts/generate-readme.ts
 
+      - name: Generate projects.json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bun .github/scripts/generate-projects.ts
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/
+          git add README.md assets/ projects.json
           git diff --staged --quiet && echo "No changes" && exit 0
-          git commit -m "Update README"
+          git commit -m "Update README and projects.json"
           git push
