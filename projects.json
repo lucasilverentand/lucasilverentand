@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T03:05:02.895Z",
-  "count": 31,
+  "generated_at": "2026-04-15T03:04:51.127Z",
+  "count": 29,
   "projects": [
     {
       "name": "HeadHigh",
@@ -55,7 +55,7 @@
       ],
       "license": "NOASSERTION",
       "created_at": "2025-12-13T15:18:55Z",
-      "updated_at": "2026-04-14T02:58:39Z",
+      "updated_at": "2026-04-15T02:58:38Z",
       "source": "github",
       "tags": {
         "type": [
@@ -67,6 +67,50 @@
         "language": [
           "javascript"
         ]
+      }
+    },
+    {
+      "name": "lucasilverentand.com",
+      "description": "Personal website for Luca Silverentand",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
+      "homepage": "https://lucasilverentand.com",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-30T15:46:23Z",
+      "updated_at": "2026-04-14T20:45:07Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "website"
+        ],
+        "framework": [
+          "astro"
+        ],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-04-14T03:18:20Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -90,25 +134,6 @@
         "language": [
           "typescript"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-04-13T03:19:01Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -136,31 +161,6 @@
         "framework": [],
         "language": [
           "shell"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand.com",
-      "description": "Personal website for Luca Silverentand",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
-      "homepage": null,
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-30T15:46:23Z",
-      "updated_at": "2026-04-11T21:45:50Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "website"
-        ],
-        "framework": [
-          "astro"
-        ],
-        "language": [
-          "typescript"
         ]
       }
     },
@@ -668,29 +668,6 @@
       }
     },
     {
-      "name": "auto-commit",
-      "description": "GitHub Action that auto-commits workflow file changes back to the repository",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/auto-commit",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2025-09-01T17:32:48Z",
-      "updated_at": "2025-09-01T22:39:36Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "action"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
-        ]
-      }
-    },
-    {
       "name": "home-automation",
       "description": "Home Assistant blueprints and custom sensor configurations",
       "owner": "lucasilverentand",
@@ -712,33 +689,6 @@
         ],
         "language": [
           "yaml"
-        ]
-      }
-    },
-    {
-      "name": "create-or-update-comment",
-      "description": "GitHub Action to create or update a comment on a pull request",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/create-or-update-comment",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [
-        "github-actions",
-        "pull-request",
-        "typescript"
-      ],
-      "license": null,
-      "created_at": "2024-08-09T17:47:57Z",
-      "updated_at": "2024-08-09T22:01:39Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "action"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
