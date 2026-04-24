@@ -39,6 +39,7 @@
 | Project | Description |
 | --- | --- |
 | [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
+| [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
 | [**labelwriter-4xl**](https://github.com/lucasilverentand/labelwriter-4xl) | CUPS print server with DYMO LabelWriter 4XL drivers for Kubernetes |
 | [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
@@ -52,7 +53,6 @@
 | [**dot-steward**](https://github.com/lucasilverentand/dot-steward) | Rust CLI for declarative dotfile management with symlink tracking |
 | [**apple-music-mcp**](https://github.com/lucasilverentand/apple-music-mcp) | MCP server for controlling Apple Music from Claude Code and other AI assistants |
 | [**clusage**](https://github.com/lucasilverentand/clusage) | macOS menu bar app to track Claude API usage across multiple accounts |
-| [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**unifi-cli**](https://github.com/lucasilverentand/unifi-cli) | CLI and MCP server for the UniFi Network API with 67 auto-generated commands |
 | [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**tkn**](https://github.com/lucasilverentand/tkn) | Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage |
