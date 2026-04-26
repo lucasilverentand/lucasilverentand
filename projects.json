@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T03:03:56.874Z",
+  "generated_at": "2026-04-26T03:05:30.645Z",
   "count": 33,
   "projects": [
     {
@@ -55,7 +55,7 @@
       ],
       "license": "NOASSERTION",
       "created_at": "2025-12-13T15:18:55Z",
-      "updated_at": "2026-04-25T02:58:36Z",
+      "updated_at": "2026-04-26T02:58:45Z",
       "source": "github",
       "tags": {
         "type": [
@@ -70,6 +70,31 @@
       }
     },
     {
+      "name": "lucasilverentand.com",
+      "description": "Personal website for Luca Silverentand",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
+      "homepage": "https://lucasilverentand.com",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-30T15:46:23Z",
+      "updated_at": "2026-04-25T09:37:31Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "website"
+        ],
+        "framework": [
+          "astro"
+        ],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -80,7 +105,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-04-24T03:18:37Z",
+      "updated_at": "2026-04-25T03:17:51Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -110,31 +135,6 @@
         ],
         "language": [
           "swift"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand.com",
-      "description": "Personal website for Luca Silverentand",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
-      "homepage": "https://lucasilverentand.com",
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-30T15:46:23Z",
-      "updated_at": "2026-04-22T16:53:39Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "website"
-        ],
-        "framework": [
-          "astro"
-        ],
-        "language": [
-          "typescript"
         ]
       }
     },

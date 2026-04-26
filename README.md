@@ -39,8 +39,8 @@
 | Project | Description |
 | --- | --- |
 | [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
-| [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
+| [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**labelwriter-4xl**](https://github.com/lucasilverentand/labelwriter-4xl) | CUPS print server with DYMO LabelWriter 4XL drivers for Kubernetes |
 | [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**nordvpn-proxy**](https://github.com/lucasilverentand/nordvpn-proxy) | Docker container running NordVPN with a SOCKS5 proxy via Dante |
