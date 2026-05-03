@@ -64,11 +64,11 @@
 | Project | Description |
 | --- | --- |
 | [**handbook**](https://github.com/seventwo-studio/handbook) | SevenTwo Studio engineering principles and coding practices |
+| [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) | Bun CLI scaffolder for production-ready Cloudflare Workers monorepo projects |
 | [**pulse**](https://github.com/seventwo-studio/pulse) | Seven — AI-native version control system |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
-| [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) | Bun CLI scaffolder for production-ready Cloudflare Workers monorepo projects |
 
 ### Contributions
 
