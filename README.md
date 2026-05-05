@@ -39,6 +39,7 @@
 | Project | Description |
 | --- | --- |
 | [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
+| [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
@@ -46,7 +47,6 @@
 | [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**nordvpn-proxy**](https://github.com/lucasilverentand/nordvpn-proxy) | Docker container running NordVPN with a SOCKS5 proxy via Dante |
 | [**home-automation**](https://github.com/lucasilverentand/home-automation) | Home Assistant blueprints and custom sensor configurations |
-| [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**lumo-server**](https://github.com/lucasilverentand/lumo-server) | Docker image for running a modded Minecraft server with backup and management scripts |
 | [**artemis-lunar-wallpapers**](https://github.com/lucasilverentand/artemis-lunar-wallpapers) | Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes. |
 | [**pane**](https://github.com/lucasilverentand/pane) | Rust TUI agent manager with daemon, protocol, and terminal interface |

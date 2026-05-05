@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T03:07:02.687Z",
+  "generated_at": "2026-05-05T03:05:44.921Z",
   "count": 33,
   "projects": [
     {
@@ -55,7 +55,7 @@
       ],
       "license": "NOASSERTION",
       "created_at": "2025-12-13T15:18:55Z",
-      "updated_at": "2026-05-04T02:59:17Z",
+      "updated_at": "2026-05-05T02:58:59Z",
       "source": "github",
       "tags": {
         "type": [
@@ -67,6 +67,55 @@
         "language": [
           "javascript"
         ]
+      }
+    },
+    {
+      "name": "ha-inhabit",
+      "description": "Visual home editor and sensor automation",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/ha-inhabit",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "topics": [
+        "hacs",
+        "home-assistant",
+        "home-assistant-custom-component",
+        "homeassistant"
+      ],
+      "license": "MIT",
+      "created_at": "2026-01-28T23:32:01Z",
+      "updated_at": "2026-05-04T21:28:31Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [
+          "home-assistant"
+        ],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-05-04T03:21:35Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -96,25 +145,6 @@
         "language": [
           "mdx"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-05-03T03:20:39Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -351,36 +381,6 @@
         ],
         "language": [
           "yaml"
-        ]
-      }
-    },
-    {
-      "name": "ha-inhabit",
-      "description": "Visual home editor and sensor automation",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/ha-inhabit",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [
-        "hacs",
-        "home-assistant",
-        "home-assistant-custom-component",
-        "homeassistant"
-      ],
-      "license": "MIT",
-      "created_at": "2026-01-28T23:32:01Z",
-      "updated_at": "2026-04-22T12:42:23Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [
-          "home-assistant"
-        ],
-        "language": [
-          "python"
         ]
       }
     },
