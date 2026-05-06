@@ -39,15 +39,18 @@
 | Project | Description |
 | --- | --- |
 | [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
-| [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
-| [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
+| [**free-disk-space**](https://github.com/lucasilverentand/free-disk-space) | Free disk space on GitHub-hosted Ubuntu runners by removing preinstalled toolchains and caches. |
 | [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
+| [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
+| [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
+| [**lumo-server**](https://github.com/lucasilverentand/lumo-server) | Docker image for running a modded Minecraft server with backup and management scripts |
+| [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
+| [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**labelwriter-4xl**](https://github.com/lucasilverentand/labelwriter-4xl) | CUPS print server with DYMO LabelWriter 4XL drivers for Kubernetes |
 | [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**nordvpn-proxy**](https://github.com/lucasilverentand/nordvpn-proxy) | Docker container running NordVPN with a SOCKS5 proxy via Dante |
 | [**home-automation**](https://github.com/lucasilverentand/home-automation) | Home Assistant blueprints and custom sensor configurations |
-| [**lumo-server**](https://github.com/lucasilverentand/lumo-server) | Docker image for running a modded Minecraft server with backup and management scripts |
 | [**artemis-lunar-wallpapers**](https://github.com/lucasilverentand/artemis-lunar-wallpapers) | Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes. |
 | [**pane**](https://github.com/lucasilverentand/pane) | Rust TUI agent manager with daemon, protocol, and terminal interface |
 | [**skills**](https://github.com/lucasilverentand/skills) | 72 Claude Code skills organized into 16 plugins and 7 intent-based bundles |
@@ -56,19 +59,17 @@
 | [**clusage**](https://github.com/lucasilverentand/clusage) | macOS menu bar app to track Claude API usage across multiple accounts |
 | [**unifi-cli**](https://github.com/lucasilverentand/unifi-cli) | CLI and MCP server for the UniFi Network API with 67 auto-generated commands |
 | [**tkn**](https://github.com/lucasilverentand/tkn) | Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage |
-| [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
-| [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 
 #### [@seventwo-studio](https://github.com/seventwo-studio)
 
 | Project | Description |
 | --- | --- |
-| [**handbook**](https://github.com/seventwo-studio/handbook) | SevenTwo Studio engineering principles and coding practices |
-| [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) | Bun CLI scaffolder for production-ready Cloudflare Workers monorepo projects |
+| [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
+| [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
 | [**pulse**](https://github.com/seventwo-studio/pulse) | Seven — AI-native version control system |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
-| [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
-| [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
+| [**handbook**](https://github.com/seventwo-studio/handbook) | SevenTwo Studio engineering principles and coding practices |
+| [**create-seventwo**](https://github.com/seventwo-studio/create-seventwo) | Bun CLI scaffolder for production-ready Cloudflare Workers monorepo projects |
 
 ### Contributions
 
