@@ -39,12 +39,12 @@
 | Project | Description |
 | --- | --- |
 | [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
-| [**free-disk-space**](https://github.com/lucasilverentand/free-disk-space) | Free disk space on GitHub-hosted Ubuntu runners by removing preinstalled toolchains and caches. |
-| [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
 | [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
+| [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
+| [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
+| [**free-disk-space**](https://github.com/lucasilverentand/free-disk-space) | Free disk space on GitHub-hosted Ubuntu runners by removing preinstalled toolchains and caches. |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**lumo-server**](https://github.com/lucasilverentand/lumo-server) | Docker image for running a modded Minecraft server with backup and management scripts |
-| [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**labelwriter-4xl**](https://github.com/lucasilverentand/labelwriter-4xl) | CUPS print server with DYMO LabelWriter 4XL drivers for Kubernetes |
@@ -64,6 +64,7 @@
 
 | Project | Description |
 | --- | --- |
+| [**expo-passkite**](https://github.com/seventwo-studio/expo-passkite) | Expo module for generating Apple Wallet and Google Wallet passes from React Native |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
 | [**pulse**](https://github.com/seventwo-studio/pulse) | Seven — AI-native version control system |
