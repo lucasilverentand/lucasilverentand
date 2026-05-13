@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T03:06:55.600Z",
-  "count": 34,
+  "generated_at": "2026-05-13T03:07:16.200Z",
+  "count": 33,
   "projects": [
     {
       "name": "HeadHigh",
@@ -33,6 +33,71 @@
         "language": [
           "swift"
         ]
+      }
+    },
+    {
+      "name": "kustodian",
+      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/kustodian",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2025-12-29T00:57:16Z",
+      "updated_at": "2026-05-12T21:36:34Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "tkn",
+      "description": "Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tkn",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 2,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-02-12T17:23:40Z",
+      "updated_at": "2026-05-12T19:08:15Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-05-12T03:21:15Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -110,29 +175,6 @@
       }
     },
     {
-      "name": "kustodian",
-      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/kustodian",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2025-12-29T00:57:16Z",
-      "updated_at": "2026-05-11T22:02:38Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
       "name": "lumo-optimized",
       "description": "A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals.",
       "owner": "lucasilverentand",
@@ -167,25 +209,6 @@
       }
     },
     {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-05-11T03:24:27Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
       "name": "expo-passkite",
       "description": "Expo module for generating Apple Wallet and Google Wallet passes from React Native",
       "owner": "seventwo-studio",
@@ -213,29 +236,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "tkn",
-      "description": "Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tkn",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 2,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-02-12T17:23:40Z",
-      "updated_at": "2026-05-09T11:51:45Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
         ]
       }
     },
@@ -319,27 +319,6 @@
         ],
         "language": [
           "swift"
-        ]
-      }
-    },
-    {
-      "name": "pulse",
-      "description": "Seven — AI-native version control system",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/pulse",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-04-09T13:48:42Z",
-      "updated_at": "2026-05-07T20:36:57Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "rust"
         ]
       }
     },
