@@ -39,10 +39,10 @@
 | Project | Description |
 | --- | --- |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
-| [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
-| [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
-| [**lumo-server**](https://github.com/lucasilverentand/lumo-server) | Docker image for running a modded Minecraft server with backup and management scripts |
 | [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
+| [**lumo-optimized**](https://github.com/lucasilverentand/lumo-optimized) | A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals. |
+| [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
+| [**lumo-server**](https://github.com/lucasilverentand/lumo-server) | Docker image for running a modded Minecraft server with backup and management scripts |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**tkn**](https://github.com/lucasilverentand/tkn) | Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage |
 | [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
@@ -63,8 +63,8 @@
 
 | Project | Description |
 | --- | --- |
-| [**expo-passkite**](https://github.com/seventwo-studio/expo-passkite) | Expo module for generating Apple Wallet and Google Wallet passes from React Native |
 | [**block-editor**](https://github.com/seventwo-studio/block-editor) | Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors. |
+| [**expo-passkite**](https://github.com/seventwo-studio/expo-passkite) | Expo module for generating Apple Wallet and Google Wallet passes from React Native |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
