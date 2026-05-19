@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T03:08:26.718Z",
-  "count": 32,
+  "generated_at": "2026-05-19T03:07:42.744Z",
+  "count": 30,
   "projects": [
     {
       "name": "HeadHigh",
@@ -36,40 +36,6 @@
       }
     },
     {
-      "name": "lumo-optimized",
-      "description": "A performance-focused Fabric modpack for Minecraft 1.21.8 with quality-of-life improvements, optimized rendering, and beautiful visuals.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lumo-optimized",
-      "homepage": null,
-      "language": "JavaScript",
-      "stars": 0,
-      "topics": [
-        "fabric",
-        "minecraft",
-        "minecraft-modpack",
-        "modpack",
-        "optimization",
-        "packwiz",
-        "performance",
-        "sodium"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2025-12-13T15:18:55Z",
-      "updated_at": "2026-05-18T00:41:16Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "modpack"
-        ],
-        "framework": [
-          "fabric"
-        ],
-        "language": [
-          "javascript"
-        ]
-      }
-    },
-    {
       "name": "tarmac",
       "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
       "owner": "lucasilverentand",
@@ -80,7 +46,7 @@
       "topics": [],
       "license": null,
       "created_at": "2026-03-12T11:00:29Z",
-      "updated_at": "2026-05-18T00:28:34Z",
+      "updated_at": "2026-05-18T20:11:08Z",
       "source": "github",
       "tags": {
         "type": [
@@ -105,7 +71,7 @@
       "topics": [],
       "license": null,
       "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-05-17T22:59:29Z",
+      "updated_at": "2026-05-18T19:42:10Z",
       "source": "github",
       "tags": {
         "type": [
@@ -114,6 +80,287 @@
         "framework": [],
         "language": [
           "typescript"
+        ]
+      }
+    },
+    {
+      "name": "runner",
+      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/runner",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 1,
+      "topics": [
+        "ci-cd",
+        "docker",
+        "github-actions",
+        "self-hosted-runner"
+      ],
+      "license": null,
+      "created_at": "2026-03-19T18:17:31Z",
+      "updated_at": "2026-05-18T19:15:55Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
+      "name": "expo-passkite",
+      "description": "Expo module for generating Apple Wallet and Google Wallet passes from React Native",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/expo-passkite",
+      "homepage": "https://seventwo-studio.github.io/expo-passkite/",
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [
+        "apple-wallet",
+        "expo",
+        "expo-module",
+        "google-wallet",
+        "passkit",
+        "pkpass",
+        "react-native",
+        "typescript",
+        "wallet"
+      ],
+      "license": "MIT",
+      "created_at": "2025-04-06T20:12:58Z",
+      "updated_at": "2026-05-18T19:14:39Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "devcontainers",
+      "description": "Docker images for GitHub Actions runners and devcontainers with multi-arch support",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/devcontainers",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 0,
+      "topics": [
+        "containers",
+        "devcontainer",
+        "docker"
+      ],
+      "license": "MIT",
+      "created_at": "2024-02-07T16:09:24Z",
+      "updated_at": "2026-05-18T19:14:35Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-05-18T19:14:20Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "tkn",
+      "description": "Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tkn",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 2,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-02-12T17:23:40Z",
+      "updated_at": "2026-05-18T19:14:14Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand.com",
+      "description": "Personal website for Luca Silverentand",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
+      "homepage": "https://lucasilverentand.com",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-30T15:46:23Z",
+      "updated_at": "2026-05-18T19:13:34Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "website"
+        ],
+        "framework": [
+          "astro"
+        ],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "kustodian",
+      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/kustodian",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2025-12-29T00:57:16Z",
+      "updated_at": "2026-05-18T19:13:28Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "clusage",
+      "description": "macOS menu bar app to track Claude API usage across multiple accounts",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/clusage",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [
+        "api-usage",
+        "claude",
+        "macos",
+        "menubar",
+        "swift"
+      ],
+      "license": "MIT",
+      "created_at": "2026-03-02T21:22:36Z",
+      "updated_at": "2026-05-18T19:13:20Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "app"
+        ],
+        "framework": [
+          "swiftui"
+        ],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-05-18T19:13:17Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "artemis-lunar-wallpapers",
+      "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/artemis-lunar-wallpapers",
+      "homepage": "https://lucasilverentand.github.io/artemis-lunar-wallpapers/",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-04-09T22:12:37Z",
+      "updated_at": "2026-05-18T19:13:13Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "astro"
+        ]
+      }
+    },
+    {
+      "name": "pane",
+      "description": "Rust TUI agent manager with daemon, protocol, and terminal interface",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/pane",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-02-04T20:36:28Z",
+      "updated_at": "2026-05-18T15:50:38Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli",
+          "app"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
         ]
       }
     },
@@ -128,7 +375,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-05-17T03:22:08Z",
+      "updated_at": "2026-05-18T03:24:31Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -156,27 +403,6 @@
         "framework": [],
         "language": [
           "rust"
-        ]
-      }
-    },
-    {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-05-16T06:56:20Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
@@ -261,245 +487,6 @@
         "type": [],
         "framework": [],
         "language": []
-      }
-    },
-    {
-      "name": "kustodian",
-      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/kustodian",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2025-12-29T00:57:16Z",
-      "updated_at": "2026-05-15T13:27:14Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "lumo-server",
-      "description": "Docker image for running a modded Minecraft server with backup and management scripts",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lumo-server",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2025-12-14T18:06:19Z",
-      "updated_at": "2026-05-14T11:48:10Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "python",
-          "shell"
-        ]
-      }
-    },
-    {
-      "name": "expo-passkite",
-      "description": "Expo module for generating Apple Wallet and Google Wallet passes from React Native",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/expo-passkite",
-      "homepage": "https://seventwo-studio.github.io/expo-passkite/",
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [
-        "apple-wallet",
-        "expo",
-        "expo-module",
-        "google-wallet",
-        "passkit",
-        "pkpass",
-        "react-native",
-        "typescript",
-        "wallet"
-      ],
-      "license": "MIT",
-      "created_at": "2025-04-06T20:12:58Z",
-      "updated_at": "2026-05-13T14:51:11Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-05-13T07:05:23Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "tkn",
-      "description": "Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tkn",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 2,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-02-12T17:23:40Z",
-      "updated_at": "2026-05-12T19:08:15Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
-        ]
-      }
-    },
-    {
-      "name": "runner",
-      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/runner",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 1,
-      "topics": [
-        "ci-cd",
-        "docker",
-        "github-actions",
-        "self-hosted-runner"
-      ],
-      "license": null,
-      "created_at": "2026-03-19T18:17:31Z",
-      "updated_at": "2026-05-11T23:41:48Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
-        ]
-      }
-    },
-    {
-      "name": "devcontainers",
-      "description": "Docker images for GitHub Actions runners and devcontainers with multi-arch support",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/devcontainers",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 0,
-      "topics": [
-        "containers",
-        "devcontainer",
-        "docker"
-      ],
-      "license": "MIT",
-      "created_at": "2024-02-07T16:09:24Z",
-      "updated_at": "2026-05-09T11:20:59Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand.com",
-      "description": "Personal website for Luca Silverentand",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
-      "homepage": "https://lucasilverentand.com",
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-30T15:46:23Z",
-      "updated_at": "2026-05-08T13:30:15Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "website"
-        ],
-        "framework": [
-          "astro"
-        ],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "clusage",
-      "description": "macOS menu bar app to track Claude API usage across multiple accounts",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/clusage",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [
-        "api-usage",
-        "claude",
-        "macos",
-        "menubar",
-        "swift"
-      ],
-      "license": "MIT",
-      "created_at": "2026-03-02T21:22:36Z",
-      "updated_at": "2026-05-08T12:22:09Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "app"
-        ],
-        "framework": [
-          "swiftui"
-        ],
-        "language": [
-          "swift"
-        ]
       }
     },
     {
@@ -663,51 +650,6 @@
         "framework": [],
         "language": [
           "shell"
-        ]
-      }
-    },
-    {
-      "name": "artemis-lunar-wallpapers",
-      "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/artemis-lunar-wallpapers",
-      "homepage": "https://lucasilverentand.github.io/artemis-lunar-wallpapers/",
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-04-09T22:12:37Z",
-      "updated_at": "2026-04-22T12:42:13Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "astro"
-        ]
-      }
-    },
-    {
-      "name": "pane",
-      "description": "Rust TUI agent manager with daemon, protocol, and terminal interface",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/pane",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-02-04T20:36:28Z",
-      "updated_at": "2026-04-22T12:42:12Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli",
-          "app"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
         ]
       }
     },
