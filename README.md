@@ -38,9 +38,9 @@
 
 | Project | Description |
 | --- | --- |
-| [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**skills**](https://github.com/lucasilverentand/skills) | 72 Claude Code skills organized into 16 plugins and 7 intent-based bundles |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
+| [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**pane**](https://github.com/lucasilverentand/pane) | Rust TUI agent manager with daemon, protocol, and terminal interface |
 | [**tkn**](https://github.com/lucasilverentand/tkn) | Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage |
 | [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
