@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T03:08:10.944Z",
+  "generated_at": "2026-05-22T03:07:59.333Z",
   "count": 30,
   "projects": [
     {
@@ -36,6 +36,52 @@
       }
     },
     {
+      "name": "kustodian",
+      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/kustodian",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2025-12-29T00:57:16Z",
+      "updated_at": "2026-05-22T01:38:15Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "canaveral",
+      "description": "Rust CLI for automated package and app release workflows",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/canaveral",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T13:48:27Z",
+      "updated_at": "2026-05-21T23:39:15Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
+    },
+    {
       "name": "skills",
       "description": "72 Claude Code skills organized into 16 plugins and 7 intent-based bundles",
       "owner": "lucasilverentand",
@@ -46,7 +92,7 @@
       "topics": [],
       "license": null,
       "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-05-20T22:24:39Z",
+      "updated_at": "2026-05-21T20:15:09Z",
       "source": "github",
       "tags": {
         "type": [
@@ -56,6 +102,69 @@
         "language": [
           "typescript"
         ]
+      }
+    },
+    {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-05-21T20:11:15Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "privado-proxy",
+      "description": "Privado VPN SOCKS5 Proxy using WireGuard",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/privado-proxy",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2025-12-22T20:28:38Z",
+      "updated_at": "2026-05-21T07:59:46Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-05-21T03:22:44Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -81,69 +190,6 @@
         "language": [
           "swift"
         ]
-      }
-    },
-    {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-05-20T22:11:43Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "kustodian",
-      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/kustodian",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2025-12-29T00:57:16Z",
-      "updated_at": "2026-05-20T13:36:45Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-05-20T03:22:25Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -384,29 +430,6 @@
       }
     },
     {
-      "name": "canaveral",
-      "description": "Rust CLI for automated package and app release workflows",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/canaveral",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-01-23T13:48:27Z",
-      "updated_at": "2026-05-16T10:24:41Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
-        ]
-      }
-    },
-    {
       "name": ".github",
       "description": "GitHub org-wide files and Renovate preset",
       "owner": "silverswarm",
@@ -596,29 +619,6 @@
       "license": null,
       "created_at": "2025-12-29T00:42:28Z",
       "updated_at": "2026-04-22T12:42:28Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
-        ]
-      }
-    },
-    {
-      "name": "privado-proxy",
-      "description": "Privado VPN SOCKS5 Proxy using WireGuard",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/privado-proxy",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2025-12-22T20:28:38Z",
-      "updated_at": "2026-04-22T12:42:26Z",
       "source": "github",
       "tags": {
         "type": [
