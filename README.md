@@ -38,11 +38,12 @@
 
 | Project | Description |
 | --- | --- |
+| [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
-| [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
 | [**skills**](https://github.com/lucasilverentand/skills) | 72 Claude Code skills organized into 16 plugins and 7 intent-based bundles |
-| [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
+| [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
+| [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**pane**](https://github.com/lucasilverentand/pane) | Rust TUI agent manager with daemon, protocol, and terminal interface |
 | [**tkn**](https://github.com/lucasilverentand/tkn) | Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage |
 | [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
@@ -61,9 +62,9 @@
 
 | Project | Description |
 | --- | --- |
+| [**expo-passkite**](https://github.com/seventwo-studio/expo-passkite) | Expo module for generating Apple Wallet and Google Wallet passes from React Native |
 | [**block-editor**](https://github.com/seventwo-studio/block-editor) | Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors. |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
-| [**expo-passkite**](https://github.com/seventwo-studio/expo-passkite) | Expo module for generating Apple Wallet and Google Wallet passes from React Native |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
 
