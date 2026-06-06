@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T03:08:43.945Z",
+  "generated_at": "2026-06-06T03:06:50.097Z",
   "count": 31,
   "projects": [
     {
@@ -36,17 +36,17 @@
       }
     },
     {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
+      "name": "tetherbox",
+      "description": null,
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tetherbox",
       "homepage": null,
       "language": "TypeScript",
       "stars": 0,
       "topics": [],
       "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-06-05T00:04:37Z",
+      "created_at": "2026-06-02T10:36:08Z",
+      "updated_at": "2026-06-05T17:03:27Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -67,7 +67,7 @@
       "topics": [],
       "license": null,
       "created_at": "2026-03-12T11:00:29Z",
-      "updated_at": "2026-06-04T22:13:35Z",
+      "updated_at": "2026-06-05T14:16:50Z",
       "source": "github",
       "tags": {
         "type": [
@@ -78,6 +78,73 @@
         ],
         "language": [
           "swift"
+        ]
+      }
+    },
+    {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-06-05T03:47:15Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-06-05T03:23:20Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-06-05T00:04:37Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
         ]
       }
     },
@@ -135,25 +202,6 @@
       }
     },
     {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-04T03:25:01Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
       "name": "kustodian",
       "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
       "owner": "lucasilverentand",
@@ -170,27 +218,6 @@
         "type": [
           "cli"
         ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "tetherbox",
-      "description": null,
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tetherbox",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-06-02T10:36:08Z",
-      "updated_at": "2026-06-03T13:46:31Z",
-      "source": "github",
-      "tags": {
-        "type": [],
         "framework": [],
         "language": [
           "typescript"
@@ -271,33 +298,6 @@
         "framework": [],
         "language": [
           "rust"
-        ]
-      }
-    },
-    {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-05-29T20:10:01Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
