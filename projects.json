@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T03:08:39.999Z",
+  "generated_at": "2026-06-08T03:09:36.120Z",
   "count": 31,
   "projects": [
     {
@@ -36,6 +36,25 @@
       }
     },
     {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-06-07T03:23:07Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "canaveral",
       "description": "Rust CLI for automated package and app release workflows",
       "owner": "lucasilverentand",
@@ -56,25 +75,6 @@
         "language": [
           "rust"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-06T03:21:00Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
