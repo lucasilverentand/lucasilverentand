@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T03:09:36.120Z",
+  "generated_at": "2026-06-09T03:07:28.149Z",
   "count": 31,
   "projects": [
     {
@@ -36,6 +36,75 @@
       }
     },
     {
+      "name": "tetherbox",
+      "description": null,
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tetherbox",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-06-02T10:36:08Z",
+      "updated_at": "2026-06-08T14:26:45Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "skills",
+      "description": "72 Claude Code skills organized into 16 plugins and 7 intent-based bundles",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 3,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-06-08T09:39:18Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "tarmac",
+      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tarmac",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-12T11:00:29Z",
+      "updated_at": "2026-06-08T09:21:50Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "app"
+        ],
+        "framework": [
+          "swiftui"
+        ],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -46,7 +115,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-07T03:23:07Z",
+      "updated_at": "2026-06-08T03:25:03Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -74,52 +143,6 @@
         "framework": [],
         "language": [
           "rust"
-        ]
-      }
-    },
-    {
-      "name": "tetherbox",
-      "description": null,
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tetherbox",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-06-02T10:36:08Z",
-      "updated_at": "2026-06-05T17:03:27Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "tarmac",
-      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tarmac",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-12T11:00:29Z",
-      "updated_at": "2026-06-05T14:16:50Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "app"
-        ],
-        "framework": [
-          "swiftui"
-        ],
-        "language": [
-          "swift"
         ]
       }
     },
@@ -198,29 +221,6 @@
         ],
         "language": [
           "python"
-        ]
-      }
-    },
-    {
-      "name": "skills",
-      "description": "72 Claude Code skills organized into 16 plugins and 7 intent-based bundles",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 3,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-06-04T12:58:29Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
