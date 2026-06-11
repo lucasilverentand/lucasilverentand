@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T03:07:57.825Z",
+  "generated_at": "2026-06-11T03:07:47.236Z",
   "count": 31,
   "projects": [
     {
@@ -33,6 +33,48 @@
         "language": [
           "swift"
         ]
+      }
+    },
+    {
+      "name": "skills",
+      "description": "72 Claude Code skills organized into 16 plugins and 7 intent-based bundles",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 3,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-06-10T20:29:01Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-06-10T03:22:08Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -78,48 +120,6 @@
         ],
         "language": [
           "swift"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-09T03:23:29Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
-      "name": "skills",
-      "description": "72 Claude Code skills organized into 16 plugins and 7 intent-based bundles",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 3,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-06-08T09:39:18Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
