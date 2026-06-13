@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T03:08:42.404Z",
+  "generated_at": "2026-06-13T03:07:32.982Z",
   "count": 31,
   "projects": [
     {
@@ -36,6 +36,77 @@
       }
     },
     {
+      "name": "tetherbox",
+      "description": null,
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tetherbox",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-06-02T10:36:08Z",
+      "updated_at": "2026-06-13T00:00:23Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "canaveral",
+      "description": "Rust CLI for automated package and app release workflows",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/canaveral",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T13:48:27Z",
+      "updated_at": "2026-06-12T23:53:18Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
+    },
+    {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-06-12T19:36:01Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
+        ]
+      }
+    },
+    {
       "name": "ha-inhabit",
       "description": "Visual home editor and sensor automation",
       "owner": "lucasilverentand",
@@ -51,7 +122,7 @@
       ],
       "license": "MIT",
       "created_at": "2026-01-28T23:32:01Z",
-      "updated_at": "2026-06-11T23:50:24Z",
+      "updated_at": "2026-06-12T16:10:13Z",
       "source": "github",
       "tags": {
         "type": [
@@ -66,6 +137,33 @@
       }
     },
     {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-06-12T14:12:14Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
       "name": "skills",
       "description": "Agentic skills for running a software development business",
       "owner": "lucasilverentand",
@@ -76,7 +174,7 @@
       "topics": [],
       "license": null,
       "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-06-11T23:15:31Z",
+      "updated_at": "2026-06-12T11:06:25Z",
       "source": "github",
       "tags": {
         "type": [
@@ -86,6 +184,25 @@
         "language": [
           "typescript"
         ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-06-12T03:23:41Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -110,96 +227,6 @@
         ],
         "language": [
           "swift"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-11T03:21:33Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
-      "name": "tetherbox",
-      "description": null,
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tetherbox",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-06-02T10:36:08Z",
-      "updated_at": "2026-06-09T15:58:37Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "canaveral",
-      "description": "Rust CLI for automated package and app release workflows",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/canaveral",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-01-23T13:48:27Z",
-      "updated_at": "2026-06-06T19:13:34Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
-        ]
-      }
-    },
-    {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-06-05T03:47:15Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
@@ -298,33 +325,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-05-28T17:14:52Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
         ]
       }
     },
