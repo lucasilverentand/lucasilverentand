@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T03:09:22.939Z",
+  "generated_at": "2026-06-15T03:10:36.810Z",
   "count": 31,
   "projects": [
     {
@@ -36,6 +36,33 @@
       }
     },
     {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-06-15T01:31:32Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
+        ]
+      }
+    },
+    {
       "name": "ha-inhabit",
       "description": "Visual home editor and sensor automation",
       "owner": "lucasilverentand",
@@ -51,7 +78,7 @@
       ],
       "license": "MIT",
       "created_at": "2026-01-28T23:32:01Z",
-      "updated_at": "2026-06-13T17:22:33Z",
+      "updated_at": "2026-06-14T15:11:18Z",
       "source": "github",
       "tags": {
         "type": [
@@ -75,14 +102,37 @@
       "stars": 0,
       "topics": [],
       "license": "MIT",
-      "created_at": "2026-06-02T10:36:08Z",
-      "updated_at": "2026-06-13T10:46:16Z",
+      "created_at": "2026-06-14T13:46:16Z",
+      "updated_at": "2026-06-14T13:46:25Z",
       "source": "github",
       "tags": {
         "type": [],
         "framework": [],
         "language": [
           "typescript"
+        ]
+      }
+    },
+    {
+      "name": "canaveral",
+      "description": "Rust CLI for automated package and app release workflows",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/canaveral",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T13:48:27Z",
+      "updated_at": "2026-06-14T06:59:19Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
         ]
       }
     },
@@ -97,62 +147,12 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-13T03:21:36Z",
+      "updated_at": "2026-06-14T03:23:50Z",
       "source": "github",
       "tags": {
         "type": [],
         "framework": [],
         "language": []
-      }
-    },
-    {
-      "name": "canaveral",
-      "description": "Rust CLI for automated package and app release workflows",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/canaveral",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-01-23T13:48:27Z",
-      "updated_at": "2026-06-12T23:53:18Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-06-12T19:36:01Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
-        ]
       }
     },
     {
