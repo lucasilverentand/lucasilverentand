@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T03:09:46.767Z",
+  "generated_at": "2026-06-17T03:09:04.534Z",
   "count": 31,
   "projects": [
     {
@@ -36,6 +36,48 @@
       }
     },
     {
+      "name": "skills",
+      "description": "Agentic skills for running a software development business",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 3,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-06-16T21:35:01Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-06-16T03:24:01Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "ha-inhabit",
       "description": "Visual home editor and sensor automation",
       "owner": "lucasilverentand",
@@ -63,48 +105,6 @@
         "language": [
           "python"
         ]
-      }
-    },
-    {
-      "name": "skills",
-      "description": "Agentic skills for running a software development business",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 3,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-06-15T12:34:55Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-15T03:26:01Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {

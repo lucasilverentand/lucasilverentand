@@ -38,8 +38,8 @@
 
 | Project | Description |
 | --- | --- |
-| [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
+| [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**tetherbox**](https://github.com/lucasilverentand/tetherbox) |  |
 | [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
