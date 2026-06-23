@@ -38,6 +38,7 @@
 
 | Project | Description |
 | --- | --- |
+| [**tetherbox**](https://github.com/lucasilverentand/tetherbox) |  |
 | [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
@@ -45,7 +46,6 @@
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
-| [**tetherbox**](https://github.com/lucasilverentand/tetherbox) |  |
 | [**tkn**](https://github.com/lucasilverentand/tkn) | Shell proxy that optimizes CLI output for AI coding assistants by reducing token usage |
 | [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**pane**](https://github.com/lucasilverentand/pane) | Rust TUI agent manager with daemon, protocol, and terminal interface |
