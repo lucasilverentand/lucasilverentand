@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T03:07:07.226Z",
+  "generated_at": "2026-06-24T03:07:12.366Z",
   "count": 31,
   "projects": [
     {
@@ -36,27 +36,6 @@
       }
     },
     {
-      "name": "tetherbox",
-      "description": null,
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tetherbox",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-06-14T13:46:16Z",
-      "updated_at": "2026-06-22T21:17:38Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
       "name": "ha-inhabit",
       "description": "Visual home editor and sensor automation",
       "owner": "lucasilverentand",
@@ -72,7 +51,7 @@
       ],
       "license": "MIT",
       "created_at": "2026-01-28T23:32:01Z",
-      "updated_at": "2026-06-22T15:55:43Z",
+      "updated_at": "2026-06-24T02:22:43Z",
       "source": "github",
       "tags": {
         "type": [
@@ -87,6 +66,77 @@
       }
     },
     {
+      "name": "skills",
+      "description": "Agentic skills for running a software development business",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 3,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-06-24T00:12:59Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-06-23T13:22:42Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
+        ]
+      }
+    },
+    {
+      "name": "tetherbox",
+      "description": null,
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tetherbox",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-06-14T13:46:16Z",
+      "updated_at": "2026-06-23T13:15:10Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -97,7 +147,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-22T03:25:54Z",
+      "updated_at": "2026-06-23T03:22:17Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -177,29 +227,6 @@
       }
     },
     {
-      "name": "skills",
-      "description": "Agentic skills for running a software development business",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 3,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-06-19T15:27:14Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
       "name": "tarmac",
       "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
       "owner": "lucasilverentand",
@@ -221,33 +248,6 @@
         ],
         "language": [
           "swift"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-06-18T01:38:02Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
         ]
       }
     },
