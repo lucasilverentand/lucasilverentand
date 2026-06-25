@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T03:07:12.366Z",
+  "generated_at": "2026-06-25T03:07:18.878Z",
   "count": 31,
   "projects": [
     {
@@ -36,6 +36,96 @@
       }
     },
     {
+      "name": "skills",
+      "description": "Agentic skills for running a software development business",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 3,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-06-24T21:38:51Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-06-24T13:53:26Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
+        ]
+      }
+    },
+    {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-06-24T08:04:55Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-06-24T03:22:24Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "ha-inhabit",
       "description": "Visual home editor and sensor automation",
       "owner": "lucasilverentand",
@@ -66,56 +156,6 @@
       }
     },
     {
-      "name": "skills",
-      "description": "Agentic skills for running a software development business",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 3,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-06-24T00:12:59Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-06-23T13:22:42Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
-        ]
-      }
-    },
-    {
       "name": "tetherbox",
       "description": null,
       "owner": "lucasilverentand",
@@ -134,25 +174,6 @@
         "language": [
           "typescript"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-23T03:22:17Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -199,27 +220,6 @@
         "type": [
           "plugin"
         ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-06-20T11:47:54Z",
-      "source": "github",
-      "tags": {
-        "type": [],
         "framework": [],
         "language": [
           "typescript"
