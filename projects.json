@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T03:08:02.237Z",
+  "generated_at": "2026-06-29T03:08:48.611Z",
   "count": 30,
   "projects": [
     {
@@ -33,6 +33,48 @@
         "language": [
           "swift"
         ]
+      }
+    },
+    {
+      "name": "skills",
+      "description": "Agentic skills for running a software development business",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 3,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-06-28T17:40:41Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-06-28T03:22:23Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -105,48 +147,6 @@
       "source": "github",
       "tags": {
         "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-27T03:20:55Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
-      "name": "skills",
-      "description": "Agentic skills for running a software development business",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 3,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-06-26T17:12:47Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
         "framework": [],
         "language": [
           "typescript"
