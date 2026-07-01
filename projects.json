@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T03:07:28.285Z",
-  "count": 30,
+  "generated_at": "2026-07-01T03:08:44.889Z",
+  "count": 31,
   "projects": [
     {
       "name": "HeadHigh",
@@ -36,6 +36,27 @@
       }
     },
     {
+      "name": "umbrel-apps",
+      "description": "Custom Umbrel app store",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/umbrel-apps",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-06-30T13:09:46Z",
+      "updated_at": "2026-06-30T14:51:07Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
       "name": "skills",
       "description": "Agentic skills for running a software development business",
       "owner": "lucasilverentand",
@@ -46,7 +67,7 @@
       "topics": [],
       "license": null,
       "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-06-29T10:57:43Z",
+      "updated_at": "2026-06-30T07:28:03Z",
       "source": "github",
       "tags": {
         "type": [
@@ -55,50 +76,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-06-29T03:24:41Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
-      "name": "tarmac",
-      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tarmac",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-12T11:00:29Z",
-      "updated_at": "2026-06-27T17:24:09Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "app"
-        ],
-        "framework": [
-          "swiftui"
-        ],
-        "language": [
-          "swift"
         ]
       }
     },
@@ -118,7 +95,7 @@
       ],
       "license": "MIT",
       "created_at": "2026-01-28T23:32:01Z",
-      "updated_at": "2026-06-27T12:29:41Z",
+      "updated_at": "2026-06-30T07:16:51Z",
       "source": "github",
       "tags": {
         "type": [
@@ -133,21 +110,78 @@
       }
     },
     {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
+      "name": "tarmac",
+      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tarmac",
       "homepage": null,
-      "language": "TypeScript",
+      "language": "Swift",
       "stars": 0,
       "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-06-27T03:45:16Z",
+      "license": null,
+      "created_at": "2026-03-12T11:00:29Z",
+      "updated_at": "2026-06-30T07:15:31Z",
       "source": "github",
       "tags": {
-        "type": [],
+        "type": [
+          "app"
+        ],
+        "framework": [
+          "swiftui"
+        ],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
+      "name": "runner",
+      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/runner",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 1,
+      "topics": [
+        "ci-cd",
+        "docker",
+        "github-actions",
+        "self-hosted-runner"
+      ],
+      "license": null,
+      "created_at": "2026-03-19T18:17:31Z",
+      "updated_at": "2026-06-30T07:09:27Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
         "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand.com",
+      "description": "Personal website for Luca Silverentand",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
+      "homepage": "https://lucasilverentand.com",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-30T15:46:23Z",
+      "updated_at": "2026-06-30T07:09:19Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "website"
+        ],
+        "framework": [
+          "astro"
+        ],
         "language": [
           "typescript"
         ]
@@ -174,7 +208,68 @@
       ],
       "license": "MIT",
       "created_at": "2025-04-06T20:12:58Z",
-      "updated_at": "2026-06-25T15:14:17Z",
+      "updated_at": "2026-06-30T07:09:16Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "artemis-lunar-wallpapers",
+      "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/artemis-lunar-wallpapers",
+      "homepage": "https://lucasilverentand.github.io/artemis-lunar-wallpapers/",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-04-09T22:12:37Z",
+      "updated_at": "2026-06-30T07:09:15Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "astro"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-06-30T03:22:21Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-06-27T03:45:16Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -308,34 +403,6 @@
       }
     },
     {
-      "name": "runner",
-      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/runner",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 1,
-      "topics": [
-        "ci-cd",
-        "docker",
-        "github-actions",
-        "self-hosted-runner"
-      ],
-      "license": null,
-      "created_at": "2026-03-19T18:17:31Z",
-      "updated_at": "2026-05-25T02:23:19Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
-        ]
-      }
-    },
-    {
       "name": "privado-proxy",
       "description": "Privado VPN SOCKS5 Proxy using WireGuard",
       "owner": "lucasilverentand",
@@ -406,52 +473,6 @@
         "framework": [],
         "language": [
           "shell"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand.com",
-      "description": "Personal website for Luca Silverentand",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
-      "homepage": "https://lucasilverentand.com",
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-30T15:46:23Z",
-      "updated_at": "2026-05-18T19:13:34Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "website"
-        ],
-        "framework": [
-          "astro"
-        ],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "artemis-lunar-wallpapers",
-      "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/artemis-lunar-wallpapers",
-      "homepage": "https://lucasilverentand.github.io/artemis-lunar-wallpapers/",
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-04-09T22:12:37Z",
-      "updated_at": "2026-05-18T19:13:13Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "astro"
         ]
       }
     },
