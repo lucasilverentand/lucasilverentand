@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T03:06:31.747Z",
+  "generated_at": "2026-07-03T05:49:10.961Z",
   "count": 31,
   "projects": [
     {
@@ -36,6 +36,52 @@
       }
     },
     {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-07-03T00:04:05Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "tarmac",
+      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tarmac",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-12T11:00:29Z",
+      "updated_at": "2026-07-02T16:04:22Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "app"
+        ],
+        "framework": [
+          "swiftui"
+        ],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
       "name": "headscale-ingress-operator",
       "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
       "owner": "lucasilverentand",
@@ -52,7 +98,7 @@
       ],
       "license": "NOASSERTION",
       "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-07-01T21:47:41Z",
+      "updated_at": "2026-07-02T11:29:11Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -73,7 +119,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-07-01T03:22:27Z",
+      "updated_at": "2026-07-02T03:20:01Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -152,31 +198,6 @@
         ],
         "language": [
           "python"
-        ]
-      }
-    },
-    {
-      "name": "tarmac",
-      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tarmac",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-12T11:00:29Z",
-      "updated_at": "2026-06-30T07:15:31Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "app"
-        ],
-        "framework": [
-          "swiftui"
-        ],
-        "language": [
-          "swift"
         ]
       }
     },
@@ -282,27 +303,6 @@
         "framework": [],
         "language": [
           "astro"
-        ]
-      }
-    },
-    {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-06-27T03:45:16Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
