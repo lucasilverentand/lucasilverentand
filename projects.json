@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T05:16:56.319Z",
+  "generated_at": "2026-07-09T05:59:53.373Z",
   "count": 31,
   "projects": [
     {
@@ -36,6 +36,50 @@
       }
     },
     {
+      "name": "umbrel-apps",
+      "description": "Custom Umbrel app store",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/umbrel-apps",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-06-30T13:09:46Z",
+      "updated_at": "2026-07-08T22:47:32Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
+      "name": "privado-proxy",
+      "description": "Privado VPN SOCKS5 Proxy using WireGuard",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/privado-proxy",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2025-12-22T20:28:38Z",
+      "updated_at": "2026-07-08T22:46:12Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -46,7 +90,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-07-07T06:17:32Z",
+      "updated_at": "2026-07-08T05:29:59Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -124,27 +168,6 @@
         "framework": [],
         "language": [
           "go"
-        ]
-      }
-    },
-    {
-      "name": "umbrel-apps",
-      "description": "Custom Umbrel app store",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/umbrel-apps",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-06-30T13:09:46Z",
-      "updated_at": "2026-06-30T14:51:07Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "shell"
         ]
       }
     },
@@ -399,29 +422,6 @@
         "framework": [],
         "language": [
           "rust"
-        ]
-      }
-    },
-    {
-      "name": "privado-proxy",
-      "description": "Privado VPN SOCKS5 Proxy using WireGuard",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/privado-proxy",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2025-12-22T20:28:38Z",
-      "updated_at": "2026-05-21T07:59:46Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
         ]
       }
     },
