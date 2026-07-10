@@ -39,9 +39,9 @@
 | Project | Description |
 | --- | --- |
 | [**umbrel-apps**](https://github.com/lucasilverentand/umbrel-apps) | Custom Umbrel app store |
+| [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
-| [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
 | [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |

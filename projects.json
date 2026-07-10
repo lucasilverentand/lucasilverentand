@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T05:59:53.373Z",
+  "generated_at": "2026-07-10T05:59:13.687Z",
   "count": 31,
   "projects": [
     {
@@ -46,7 +46,7 @@
       "topics": [],
       "license": null,
       "created_at": "2026-06-30T13:09:46Z",
-      "updated_at": "2026-07-08T22:47:32Z",
+      "updated_at": "2026-07-10T00:02:43Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -57,17 +57,44 @@
       }
     },
     {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-07-09T23:12:35Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
+        ]
+      }
+    },
+    {
       "name": "privado-proxy",
       "description": "Privado VPN SOCKS5 Proxy using WireGuard",
       "owner": "lucasilverentand",
       "url": "https://github.com/lucasilverentand/privado-proxy",
       "homepage": null,
-      "language": "Shell",
+      "language": "Python",
       "stars": 0,
       "topics": [],
       "license": null,
       "created_at": "2025-12-22T20:28:38Z",
-      "updated_at": "2026-07-08T22:46:12Z",
+      "updated_at": "2026-07-09T22:20:54Z",
       "source": "github",
       "tags": {
         "type": [
@@ -76,6 +103,31 @@
         "framework": [],
         "language": [
           "shell"
+        ]
+      }
+    },
+    {
+      "name": "tarmac",
+      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tarmac",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-12T11:00:29Z",
+      "updated_at": "2026-07-09T16:05:06Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "app"
+        ],
+        "framework": [
+          "swiftui"
+        ],
+        "language": [
+          "swift"
         ]
       }
     },
@@ -90,7 +142,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-07-08T05:29:59Z",
+      "updated_at": "2026-07-09T06:14:27Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -116,58 +168,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "tarmac",
-      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tarmac",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-12T11:00:29Z",
-      "updated_at": "2026-07-02T16:04:22Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "app"
-        ],
-        "framework": [
-          "swiftui"
-        ],
-        "language": [
-          "swift"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-07-02T11:29:11Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
         ]
       }
     },
