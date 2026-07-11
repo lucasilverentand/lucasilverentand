@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T05:59:13.687Z",
+  "generated_at": "2026-07-11T05:09:25.025Z",
   "count": 31,
   "projects": [
     {
@@ -41,18 +41,18 @@
       "owner": "lucasilverentand",
       "url": "https://github.com/lucasilverentand/umbrel-apps",
       "homepage": null,
-      "language": "Shell",
+      "language": "Python",
       "stars": 0,
       "topics": [],
       "license": null,
       "created_at": "2026-06-30T13:09:46Z",
-      "updated_at": "2026-07-10T00:02:43Z",
+      "updated_at": "2026-07-10T13:12:25Z",
       "source": "github",
       "tags": {
         "type": [],
         "framework": [],
         "language": [
-          "shell"
+          "python"
         ]
       }
     },
@@ -73,7 +73,7 @@
       ],
       "license": "NOASSERTION",
       "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-07-09T23:12:35Z",
+      "updated_at": "2026-07-10T10:50:19Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -81,6 +81,25 @@
         "language": [
           "go"
         ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-07-10T06:13:45Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -129,25 +148,6 @@
         "language": [
           "swift"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-07-09T06:14:27Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
