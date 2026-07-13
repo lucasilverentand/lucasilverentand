@@ -38,8 +38,9 @@
 
 | Project | Description |
 | --- | --- |
-| [**umbrel-apps**](https://github.com/lucasilverentand/umbrel-apps) | Custom Umbrel app store |
 | [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
+| [**homebridge-blitzortung**](https://github.com/lucasilverentand/homebridge-blitzortung) | Expose nearby Blitzortung lightning strikes as sensors in Apple Home through Homebridge. |
+| [**umbrel-apps**](https://github.com/lucasilverentand/umbrel-apps) | Custom Umbrel app store |
 | [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
