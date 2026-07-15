@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T04:47:05.518Z",
+  "generated_at": "2026-07-15T04:47:45.002Z",
   "count": 32,
   "projects": [
     {
@@ -36,6 +36,55 @@
       }
     },
     {
+      "name": "ha-inhabit",
+      "description": "Visual home editor and sensor automation",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/ha-inhabit",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "topics": [
+        "hacs",
+        "home-assistant",
+        "home-assistant-custom-component",
+        "homeassistant"
+      ],
+      "license": "MIT",
+      "created_at": "2026-01-28T23:32:01Z",
+      "updated_at": "2026-07-14T20:17:02Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [
+          "home-assistant"
+        ],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-07-14T05:08:18Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "homebridge-blitzortung",
       "description": "Expose nearby Blitzortung lightning strikes as sensors in Apple Home through Homebridge.",
       "owner": "lucasilverentand",
@@ -54,25 +103,6 @@
         "language": [
           "typescript"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-07-13T05:47:39Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -212,36 +242,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "ha-inhabit",
-      "description": "Visual home editor and sensor automation",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/ha-inhabit",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [
-        "hacs",
-        "home-assistant",
-        "home-assistant-custom-component",
-        "homeassistant"
-      ],
-      "license": "MIT",
-      "created_at": "2026-01-28T23:32:01Z",
-      "updated_at": "2026-06-30T07:16:51Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [
-          "home-assistant"
-        ],
-        "language": [
-          "python"
         ]
       }
     },
