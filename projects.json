@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T04:45:06.677Z",
-  "count": 31,
+  "generated_at": "2026-07-19T05:17:35.468Z",
+  "count": 32,
   "projects": [
     {
       "name": "HeadHigh",
@@ -36,6 +36,67 @@
       }
     },
     {
+      "name": "homebridge-bravia-energy-saver",
+      "description": "HomeKit switch for Bravia energy saving.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/homebridge-bravia-energy-saver",
+      "homepage": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-07-18T11:58:07Z",
+      "updated_at": "2026-07-18T12:50:14Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "javascript"
+        ]
+      }
+    },
+    {
+      "name": "homebridge-blitzortung",
+      "description": "Expose nearby Blitzortung lightning strikes as sensors in Apple Home through Homebridge.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/homebridge-blitzortung",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-07-12T11:32:45Z",
+      "updated_at": "2026-07-18T12:50:10Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-07-18T04:45:07Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "claudeline",
       "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
       "owner": "lucasilverentand",
@@ -60,25 +121,6 @@
         "language": [
           "typescript"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-07-17T05:09:47Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -206,27 +248,6 @@
         ],
         "language": [
           "python"
-        ]
-      }
-    },
-    {
-      "name": "homebridge-blitzortung",
-      "description": "Expose nearby Blitzortung lightning strikes as sensors in Apple Home through Homebridge.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/homebridge-blitzortung",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-07-12T11:32:45Z",
-      "updated_at": "2026-07-13T11:31:16Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
