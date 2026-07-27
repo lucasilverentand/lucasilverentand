@@ -38,6 +38,8 @@
 
 | Project | Description |
 | --- | --- |
+| [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
+| [**umbrel-apps**](https://github.com/lucasilverentand/umbrel-apps) | Custom Umbrel app store |
 | [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
@@ -47,8 +49,6 @@
 | [**homebridge-blitzortung**](https://github.com/lucasilverentand/homebridge-blitzortung) | Expose nearby Blitzortung lightning strikes as sensors in Apple Home through Homebridge. |
 | [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
-| [**umbrel-apps**](https://github.com/lucasilverentand/umbrel-apps) | Custom Umbrel app store |
-| [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
 | [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
 | [**artemis-lunar-wallpapers**](https://github.com/lucasilverentand/artemis-lunar-wallpapers) | Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes. |
@@ -64,8 +64,8 @@
 
 | Project | Description |
 | --- | --- |
-| [**block-editor**](https://github.com/seventwo-studio/block-editor) | Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors. |
 | [**expo-passkite**](https://github.com/seventwo-studio/expo-passkite) | Expo module for generating Apple Wallet and Google Wallet passes from React Native |
+| [**block-editor**](https://github.com/seventwo-studio/block-editor) | Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors. |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
