@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T05:17:40.538Z",
+  "generated_at": "2026-07-30T04:54:16.821Z",
   "count": 33,
   "projects": [
     {
@@ -36,6 +36,50 @@
       }
     },
     {
+      "name": "homebridge-philips-air-purifier-ac1715",
+      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "topics": [],
+      "license": "NOASSERTION",
+      "created_at": "2026-07-23T10:28:00Z",
+      "updated_at": "2026-07-30T04:44:07Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "canaveral",
+      "description": "Rust CLI for automated package and app release workflows",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/canaveral",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T13:48:27Z",
+      "updated_at": "2026-07-29T19:54:45Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -46,7 +90,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-07-28T05:23:52Z",
+      "updated_at": "2026-07-29T05:30:28Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -182,29 +226,6 @@
       }
     },
     {
-      "name": "canaveral",
-      "description": "Rust CLI for automated package and app release workflows",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/canaveral",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-01-23T13:48:27Z",
-      "updated_at": "2026-07-25T11:52:02Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
-        ]
-      }
-    },
-    {
       "name": "block-editor",
       "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
       "owner": "seventwo-studio",
@@ -222,27 +243,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "homebridge-philips-air-purifier-ac1715",
-      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [],
-      "license": "NOASSERTION",
-      "created_at": "2026-07-23T10:28:00Z",
-      "updated_at": "2026-07-23T10:29:24Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "python"
         ]
       }
     },
