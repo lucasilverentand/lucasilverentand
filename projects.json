@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T05:22:37.160Z",
+  "generated_at": "2026-08-02T05:22:28.772Z",
   "count": 33,
   "projects": [
     {
@@ -36,6 +36,77 @@
       }
     },
     {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-08-01T12:35:50Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-08-01T11:58:30Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "canaveral",
+      "description": "Rust CLI for automated package and app release workflows",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/canaveral",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T13:48:27Z",
+      "updated_at": "2026-08-01T11:38:11Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -46,7 +117,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-07-31T05:45:03Z",
+      "updated_at": "2026-08-01T05:34:46Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -72,29 +143,6 @@
         "framework": [],
         "language": [
           "python"
-        ]
-      }
-    },
-    {
-      "name": "canaveral",
-      "description": "Rust CLI for automated package and app release workflows",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/canaveral",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-01-23T13:48:27Z",
-      "updated_at": "2026-07-29T19:54:45Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
         ]
       }
     },
@@ -192,54 +240,6 @@
         "type": [
           "cli"
         ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-07-25T15:07:50Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-07-25T08:15:01Z",
-      "source": "github",
-      "tags": {
-        "type": [],
         "framework": [],
         "language": [
           "typescript"
