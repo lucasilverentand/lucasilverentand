@@ -38,8 +38,8 @@
 
 | Project | Description |
 | --- | --- |
-| [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
+| [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**homebridge-philips-air-purifier-ac1715**](https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715) | Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control |
 | [**tarmac**](https://github.com/lucasilverentand/tarmac) | Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon |
 | [**umbrel-apps**](https://github.com/lucasilverentand/umbrel-apps) | Custom Umbrel app store |
