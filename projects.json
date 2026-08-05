@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T05:10:42.875Z",
+  "generated_at": "2026-08-05T05:10:35.059Z",
   "count": 33,
   "projects": [
     {
@@ -33,6 +33,46 @@
         "language": [
           "swift"
         ]
+      }
+    },
+    {
+      "name": "homebridge-bravia-energy-saver",
+      "description": "HomeKit switch for Bravia energy saving.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/homebridge-bravia-energy-saver",
+      "homepage": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-07-18T11:58:07Z",
+      "updated_at": "2026-08-04T16:13:19Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "javascript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-08-04T05:23:46Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -111,25 +151,6 @@
         "language": [
           "go"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-08-03T05:51:38Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -321,27 +342,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "homebridge-bravia-energy-saver",
-      "description": "HomeKit switch for Bravia energy saving.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/homebridge-bravia-energy-saver",
-      "homepage": null,
-      "language": "JavaScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-07-18T11:58:07Z",
-      "updated_at": "2026-07-18T12:50:14Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "javascript"
         ]
       }
     },
