@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:54:44.146Z",
+  "generated_at": "2026-08-17T02:54:49.023Z",
   "count": 33,
   "projects": [
     {
@@ -32,6 +32,52 @@
         ],
         "language": [
           "swift"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-08-16T03:11:02Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-08-16T03:02:41Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
         ]
       }
     },
@@ -105,25 +151,6 @@
         "language": [
           "shell"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-08-15T03:02:24Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -222,33 +249,6 @@
         ],
         "language": [
           "python"
-        ]
-      }
-    },
-    {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-08-01T11:58:30Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
