@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T02:49:05.653Z",
+  "generated_at": "2026-08-23T02:56:58.554Z",
   "count": 33,
   "projects": [
     {
@@ -36,6 +36,50 @@
       }
     },
     {
+      "name": "canaveral",
+      "description": "Rust CLI for automated package and app release workflows",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/canaveral",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T13:48:27Z",
+      "updated_at": "2026-08-22T16:09:05Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
+    },
+    {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-08-22T15:56:51Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -46,7 +90,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-08-21T03:13:58Z",
+      "updated_at": "2026-08-22T03:05:46Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -78,29 +122,6 @@
         "framework": [],
         "language": [
           "go"
-        ]
-      }
-    },
-    {
-      "name": "canaveral",
-      "description": "Rust CLI for automated package and app release workflows",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/canaveral",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-01-23T13:48:27Z",
-      "updated_at": "2026-08-17T16:13:29Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
         ]
       }
     },
@@ -156,27 +177,6 @@
         "type": [
           "plugin"
         ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-08-15T11:54:00Z",
-      "source": "github",
-      "tags": {
-        "type": [],
         "framework": [],
         "language": [
           "typescript"
