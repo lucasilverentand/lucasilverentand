@@ -38,8 +38,8 @@
 
 | Project | Description |
 | --- | --- |
-| [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
 | [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
+| [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**homebridge-bravia-energy-saver**](https://github.com/lucasilverentand/homebridge-bravia-energy-saver) | HomeKit switch for Bravia energy saving. |
 | [**homebridge-blitzortung**](https://github.com/lucasilverentand/homebridge-blitzortung) | Expose nearby Blitzortung lightning strikes as sensors in Apple Home through Homebridge. |
@@ -65,7 +65,6 @@
 | Project | Description |
 | --- | --- |
 | [**block-editor**](https://github.com/seventwo-studio/block-editor) | Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors. |
-| [**expo-passkite**](https://github.com/seventwo-studio/expo-passkite) | Expo module for generating Apple Wallet and Google Wallet passes from React Native |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
