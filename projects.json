@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T06:46:36.016Z",
+  "generated_at": "2026-09-07T06:55:17.344Z",
   "count": 32,
   "projects": [
     {
@@ -46,7 +46,7 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-01-23T13:48:27Z",
-      "updated_at": "2026-09-05T19:40:03Z",
+      "updated_at": "2026-09-06T20:00:07Z",
       "source": "github",
       "tags": {
         "type": [
@@ -55,6 +55,27 @@
         "framework": [],
         "language": [
           "rust"
+        ]
+      }
+    },
+    {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-09-06T07:16:48Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
         ]
       }
     },
@@ -69,7 +90,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-09-05T06:54:57Z",
+      "updated_at": "2026-09-06T07:05:53Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -98,27 +119,6 @@
         "type": [
           "plugin"
         ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-09-04T23:50:59Z",
-      "source": "github",
-      "tags": {
-        "type": [],
         "framework": [],
         "language": [
           "typescript"
