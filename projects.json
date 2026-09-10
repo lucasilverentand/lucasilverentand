@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T06:59:33.815Z",
+  "generated_at": "2026-09-10T06:56:01.011Z",
   "count": 32,
   "projects": [
     {
@@ -36,6 +36,54 @@
       }
     },
     {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-09-10T03:07:13Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
+        ]
+      }
+    },
+    {
+      "name": "artemis-lunar-wallpapers",
+      "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/artemis-lunar-wallpapers",
+      "homepage": "https://lucasilverentand.github.io/artemis-lunar-wallpapers/",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-04-09T22:12:37Z",
+      "updated_at": "2026-09-09T23:45:01Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "astro"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -46,7 +94,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-09-08T07:12:47Z",
+      "updated_at": "2026-09-09T07:21:11Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -122,33 +170,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-09-03T10:09:28Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
         ]
       }
     },
@@ -410,27 +431,6 @@
         ],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "artemis-lunar-wallpapers",
-      "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/artemis-lunar-wallpapers",
-      "homepage": "https://lucasilverentand.github.io/artemis-lunar-wallpapers/",
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-04-09T22:12:37Z",
-      "updated_at": "2026-06-30T07:09:15Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "astro"
         ]
       }
     },
