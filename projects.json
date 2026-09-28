@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:29:39.908Z",
+  "generated_at": "2026-09-28T08:07:15.062Z",
   "count": 32,
   "projects": [
     {
@@ -36,6 +36,250 @@
       }
     },
     {
+      "name": "runner",
+      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/runner",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 1,
+      "topics": [
+        "ci-cd",
+        "docker",
+        "github-actions",
+        "self-hosted-runner"
+      ],
+      "license": null,
+      "created_at": "2026-03-19T18:17:31Z",
+      "updated_at": "2026-09-28T07:34:58Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
+      "name": "block-editor",
+      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/block-editor",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-05-07T17:19:57Z",
+      "updated_at": "2026-09-27T23:04:04Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-09-27T20:00:27Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "tarmac",
+      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/tarmac",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-12T11:00:29Z",
+      "updated_at": "2026-09-27T15:12:58Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "app"
+        ],
+        "framework": [
+          "swiftui"
+        ],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
+      "name": "skills",
+      "description": "Agentic skills for running a software development business",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 3,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-09-27T14:56:58Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand.com",
+      "description": "Personal website for Luca Silverentand",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
+      "homepage": "https://lucasilverentand.com",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-30T15:46:23Z",
+      "updated_at": "2026-09-27T14:52:21Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "website"
+        ],
+        "framework": [
+          "astro"
+        ],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "ha-inhabit",
+      "description": "Visual home editor and sensor automation",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/ha-inhabit",
+      "homepage": null,
+      "language": "Python",
+      "stars": 1,
+      "topics": [
+        "hacs",
+        "home-assistant",
+        "home-assistant-custom-component",
+        "homeassistant"
+      ],
+      "license": "MIT",
+      "created_at": "2026-01-28T23:32:01Z",
+      "updated_at": "2026-09-27T14:52:13Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [
+          "home-assistant"
+        ],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "artemis-lunar-wallpapers",
+      "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/artemis-lunar-wallpapers",
+      "homepage": "https://lucasilverentand.github.io/artemis-lunar-wallpapers/",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-04-09T22:12:37Z",
+      "updated_at": "2026-09-27T14:52:06Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "astro"
+        ]
+      }
+    },
+    {
+      "name": "homebridge-philips-air-purifier-ac1715",
+      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "topics": [],
+      "license": "NOASSERTION",
+      "created_at": "2026-07-23T10:28:00Z",
+      "updated_at": "2026-09-27T14:43:02Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "kustodian",
+      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/kustodian",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2025-12-29T00:57:16Z",
+      "updated_at": "2026-09-27T14:35:05Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -46,7 +290,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-09-26T07:37:09Z",
+      "updated_at": "2026-09-27T08:05:04Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -105,103 +349,6 @@
       }
     },
     {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-09-19T15:03:14Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-09-19T14:56:02Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "artemis-lunar-wallpapers",
-      "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/artemis-lunar-wallpapers",
-      "homepage": "https://lucasilverentand.github.io/artemis-lunar-wallpapers/",
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-04-09T22:12:37Z",
-      "updated_at": "2026-09-09T23:45:01Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "astro"
-        ]
-      }
-    },
-    {
-      "name": "runner",
-      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/runner",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 1,
-      "topics": [
-        "ci-cd",
-        "docker",
-        "github-actions",
-        "self-hosted-runner"
-      ],
-      "license": null,
-      "created_at": "2026-03-19T18:17:31Z",
-      "updated_at": "2026-08-15T08:21:25Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
-        ]
-      }
-    },
-    {
       "name": "homebridge-bravia-energy-saver",
       "description": "HomeKit switch for Bravia energy saving.",
       "owner": "lucasilverentand",
@@ -244,82 +391,6 @@
       }
     },
     {
-      "name": "ha-inhabit",
-      "description": "Visual home editor and sensor automation",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/ha-inhabit",
-      "homepage": null,
-      "language": "Python",
-      "stars": 1,
-      "topics": [
-        "hacs",
-        "home-assistant",
-        "home-assistant-custom-component",
-        "homeassistant"
-      ],
-      "license": "MIT",
-      "created_at": "2026-01-28T23:32:01Z",
-      "updated_at": "2026-08-04T02:24:00Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [
-          "home-assistant"
-        ],
-        "language": [
-          "python"
-        ]
-      }
-    },
-    {
-      "name": "homebridge-philips-air-purifier-ac1715",
-      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [],
-      "license": "NOASSERTION",
-      "created_at": "2026-07-23T10:28:00Z",
-      "updated_at": "2026-07-30T04:44:07Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "python"
-        ]
-      }
-    },
-    {
-      "name": "tarmac",
-      "description": "Native macOS app that runs ephemeral GitHub Actions runners inside virtual macOS VMs on Apple Silicon",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/tarmac",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-12T11:00:29Z",
-      "updated_at": "2026-07-26T15:51:49Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "app"
-        ],
-        "framework": [
-          "swiftui"
-        ],
-        "language": [
-          "swift"
-        ]
-      }
-    },
-    {
       "name": "umbrel-apps",
       "description": "Custom Umbrel app store",
       "owner": "lucasilverentand",
@@ -337,29 +408,6 @@
         "framework": [],
         "language": [
           "shell"
-        ]
-      }
-    },
-    {
-      "name": "kustodian",
-      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/kustodian",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2025-12-29T00:57:16Z",
-      "updated_at": "2026-07-25T17:51:14Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
@@ -383,54 +431,6 @@
         "framework": [],
         "language": [
           "shell"
-        ]
-      }
-    },
-    {
-      "name": "skills",
-      "description": "Agentic skills for running a software development business",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 3,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-06-30T07:28:03Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand.com",
-      "description": "Personal website for Luca Silverentand",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
-      "homepage": "https://lucasilverentand.com",
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-30T15:46:23Z",
-      "updated_at": "2026-06-30T07:09:19Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "website"
-        ],
-        "framework": [
-          "astro"
-        ],
-        "language": [
-          "typescript"
         ]
       }
     },
