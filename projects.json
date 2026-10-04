@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T07:29:08.875Z",
-  "count": 32,
+  "generated_at": "2026-10-04T07:41:10.903Z",
+  "count": 31,
   "projects": [
     {
       "name": "HeadHigh",
@@ -36,6 +36,29 @@
       }
     },
     {
+      "name": "canaveral",
+      "description": "Rust CLI for automated package and app release workflows",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/canaveral",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T13:48:27Z",
+      "updated_at": "2026-10-04T07:29:57Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
+    },
+    {
       "name": "block-editor",
       "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
       "owner": "seventwo-studio",
@@ -46,13 +69,40 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-10-03T07:08:01Z",
+      "updated_at": "2026-10-04T07:01:07Z",
       "source": "github",
       "tags": {
         "type": [],
         "framework": [],
         "language": [
           "swift"
+        ]
+      }
+    },
+    {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-10-03T11:28:50Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
         ]
       }
     },
@@ -67,7 +117,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-10-02T08:27:42Z",
+      "updated_at": "2026-10-03T08:03:10Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -174,33 +224,6 @@
         "framework": [],
         "language": [
           "go"
-        ]
-      }
-    },
-    {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-09-27T20:00:27Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
@@ -352,29 +375,6 @@
       }
     },
     {
-      "name": "canaveral",
-      "description": "Rust CLI for automated package and app release workflows",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/canaveral",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-01-23T13:48:27Z",
-      "updated_at": "2026-09-19T15:45:42Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
-        ]
-      }
-    },
-    {
       "name": "homebridge-bravia-energy-saver",
       "description": "HomeKit switch for Bravia energy saving.",
       "owner": "lucasilverentand",
@@ -457,30 +457,6 @@
         "framework": [],
         "language": [
           "shell"
-        ]
-      }
-    },
-    {
-      "name": "pane",
-      "description": "Rust TUI agent manager with daemon, protocol, and terminal interface",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/pane",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-02-04T20:36:28Z",
-      "updated_at": "2026-05-19T14:48:13Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli",
-          "app"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
         ]
       }
     },
