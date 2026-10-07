@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T08:28:17.677Z",
+  "generated_at": "2026-10-07T08:03:42.847Z",
   "count": 31,
   "projects": [
     {
@@ -36,6 +36,29 @@
       }
     },
     {
+      "name": "canaveral",
+      "description": "Rust CLI for automated package and app release workflows",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/canaveral",
+      "homepage": null,
+      "language": "Rust",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T13:48:27Z",
+      "updated_at": "2026-10-06T21:15:46Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "rust"
+        ]
+      }
+    },
+    {
       "name": "block-editor",
       "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
       "owner": "seventwo-studio",
@@ -46,7 +69,7 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-10-06T08:27:01Z",
+      "updated_at": "2026-10-06T12:51:56Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -54,6 +77,25 @@
         "language": [
           "swift"
         ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-10-06T08:56:12Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -80,48 +122,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-10-05T08:58:06Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
-      "name": "canaveral",
-      "description": "Rust CLI for automated package and app release workflows",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/canaveral",
-      "homepage": null,
-      "language": "Rust",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-01-23T13:48:27Z",
-      "updated_at": "2026-10-04T07:29:57Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "rust"
         ]
       }
     },
