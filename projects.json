@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T06:59:42.358Z",
-  "count": 30,
+  "generated_at": "2026-10-22T09:44:40.748Z",
+  "count": 28,
   "projects": [
     {
       "name": "HeadHigh",
@@ -36,27 +36,6 @@
       }
     },
     {
-      "name": "block-editor",
-      "description": "Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors.",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/block-editor",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-05-07T17:19:57Z",
-      "updated_at": "2026-10-21T18:53:08Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "swift"
-        ]
-      }
-    },
-    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -67,12 +46,112 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-10-21T07:33:15Z",
+      "updated_at": "2026-10-22T09:44:30Z",
       "source": "github",
       "tags": {
         "type": [],
         "framework": [],
         "language": []
+      }
+    },
+    {
+      "name": "lucasilverentand.com",
+      "description": "Personal website for Luca Silverentand",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
+      "homepage": "https://lucasilverentand.com",
+      "language": "Astro",
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-03-30T15:46:23Z",
+      "updated_at": "2026-10-22T09:44:24Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "website"
+        ],
+        "framework": [
+          "astro"
+        ],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "homebridge-philips-air-purifier-ac1715",
+      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "topics": [],
+      "license": "NOASSERTION",
+      "created_at": "2026-07-23T10:28:00Z",
+      "updated_at": "2026-10-22T07:45:13Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "runner",
+      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/runner",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 1,
+      "topics": [
+        "ci-cd",
+        "docker",
+        "github-actions",
+        "self-hosted-runner"
+      ],
+      "license": null,
+      "created_at": "2026-03-19T18:17:31Z",
+      "updated_at": "2026-10-22T07:39:50Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
+      "name": ".github",
+      "description": "Default community health documents for seventwo-studio",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/.github",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "community-health",
+        "github-profile"
+      ],
+      "license": "MIT",
+      "created_at": "2021-06-18T22:20:02Z",
+      "updated_at": "2026-10-22T07:39:45Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "config"
+        ],
+        "framework": [],
+        "language": [
+          "markdown"
+        ]
       }
     },
     {
@@ -92,7 +171,7 @@
       ],
       "license": "NOASSERTION",
       "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-10-15T07:00:45Z",
+      "updated_at": "2026-10-22T07:39:42Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -153,81 +232,6 @@
       }
     },
     {
-      "name": ".github",
-      "description": "Default community health documents for seventwo-studio",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/.github",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "community-health",
-        "github-profile"
-      ],
-      "license": "MIT",
-      "created_at": "2021-06-18T22:20:02Z",
-      "updated_at": "2026-10-01T12:59:01Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "config"
-        ],
-        "framework": [],
-        "language": [
-          "markdown"
-        ]
-      }
-    },
-    {
-      "name": "runner",
-      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/runner",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 1,
-      "topics": [
-        "ci-cd",
-        "docker",
-        "github-actions",
-        "self-hosted-runner"
-      ],
-      "license": null,
-      "created_at": "2026-03-19T18:17:31Z",
-      "updated_at": "2026-10-01T08:50:05Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
-        ]
-      }
-    },
-    {
-      "name": "homebridge-philips-air-purifier-ac1715",
-      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [],
-      "license": "NOASSERTION",
-      "created_at": "2026-07-23T10:28:00Z",
-      "updated_at": "2026-10-01T04:50:18Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "python"
-        ]
-      }
-    },
-    {
       "name": "skills",
       "description": "Agentic skills for running a software development business",
       "owner": "lucasilverentand",
@@ -245,31 +249,6 @@
           "plugin"
         ],
         "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand.com",
-      "description": "Personal website for Luca Silverentand",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand.com",
-      "homepage": "https://lucasilverentand.com",
-      "language": "Astro",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-03-30T15:46:23Z",
-      "updated_at": "2026-09-27T14:52:21Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "website"
-        ],
-        "framework": [
-          "astro"
-        ],
         "language": [
           "typescript"
         ]
@@ -388,27 +367,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "umbrel-apps",
-      "description": "Custom Umbrel app store",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/umbrel-apps",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-06-30T13:09:46Z",
-      "updated_at": "2026-07-26T15:30:34Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "shell"
         ]
       }
     },

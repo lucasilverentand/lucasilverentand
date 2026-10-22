@@ -38,18 +38,17 @@
 
 | Project | Description |
 | --- | --- |
+| [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
+| [**homebridge-philips-air-purifier-ac1715**](https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715) | Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control |
 | [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**canaveral**](https://github.com/lucasilverentand/canaveral) | Rust CLI for automated package and app release workflows |
-| [**homebridge-philips-air-purifier-ac1715**](https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715) | Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control |
 | [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
-| [**lucasilverentand.com**](https://github.com/lucasilverentand/lucasilverentand.com) | Personal website for Luca Silverentand |
 | [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**artemis-lunar-wallpapers**](https://github.com/lucasilverentand/artemis-lunar-wallpapers) | Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes. |
 | [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**homebridge-bravia-energy-saver**](https://github.com/lucasilverentand/homebridge-bravia-energy-saver) | HomeKit switch for Bravia energy saving. |
 | [**homebridge-blitzortung**](https://github.com/lucasilverentand/homebridge-blitzortung) | Expose nearby Blitzortung lightning strikes as sensors in Apple Home through Homebridge. |
-| [**umbrel-apps**](https://github.com/lucasilverentand/umbrel-apps) | Custom Umbrel app store |
 | [**privado-proxy**](https://github.com/lucasilverentand/privado-proxy) | Privado VPN SOCKS5 Proxy using WireGuard |
 | [**free-disk-space**](https://github.com/lucasilverentand/free-disk-space) | Free disk space on GitHub-hosted Ubuntu runners by removing preinstalled toolchains and caches. |
 | [**labelwriter-4xl**](https://github.com/lucasilverentand/labelwriter-4xl) | CUPS print server with DYMO LabelWriter 4XL drivers for Kubernetes |
@@ -62,7 +61,6 @@
 
 | Project | Description |
 | --- | --- |
-| [**block-editor**](https://github.com/seventwo-studio/block-editor) | Framework-neutral block document model, markdown conversion, and CRDT operation layer for rich block editors. |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
