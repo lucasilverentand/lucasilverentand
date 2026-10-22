@@ -64,11 +64,6 @@
     "framework": [],
     "language": ["shell"]
   },
-  "lucasilverentand/tarmac": {
-    "type": ["app"],
-    "framework": ["swiftui"],
-    "language": ["swift"]
-  },
   "seventwo-studio/handbook": {
     "type": ["website"],
     "framework": ["astro"],
