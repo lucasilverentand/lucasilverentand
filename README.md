@@ -38,10 +38,10 @@
 
 | Project | Description |
 | --- | --- |
+| [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**homebridge-blitzortung**](https://github.com/lucasilverentand/homebridge-blitzortung) | Expose nearby Blitzortung lightning strikes as sensors in Apple Home through Homebridge. |
 | [**homebridge-philips-air-purifier-ac1715**](https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715) | Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control |
-| [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
 | [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
 | [**artemis-lunar-wallpapers**](https://github.com/lucasilverentand/artemis-lunar-wallpapers) | Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes. |

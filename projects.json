@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:50:52.421Z",
+  "generated_at": "2026-10-29T07:55:58.891Z",
   "count": 26,
   "projects": [
     {
@@ -36,6 +36,33 @@
       }
     },
     {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-10-28T17:55:52Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
+        ]
+      }
+    },
+    {
       "name": "lucasilverentand",
       "description": "GitHub profile README",
       "owner": "lucasilverentand",
@@ -46,7 +73,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-10-27T07:46:41Z",
+      "updated_at": "2026-10-28T08:24:16Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -201,33 +228,6 @@
         "framework": [],
         "language": [
           "markdown"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-10-22T07:39:42Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
         ]
       }
     },
