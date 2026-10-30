@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T07:55:58.891Z",
-  "count": 26,
+  "generated_at": "2026-10-30T07:58:43.474Z",
+  "count": 27,
   "projects": [
     {
       "name": "HeadHigh",
@@ -36,6 +36,143 @@
       }
     },
     {
+      "name": "BBC",
+      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/BBC",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-10-29T09:25:36Z",
+      "updated_at": "2026-10-30T07:48:10Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
+      "name": "skills",
+      "description": "Agentic skills for running a software development business",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 5,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-10-29T18:46:05Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "kustodian",
+      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/kustodian",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2025-12-29T00:57:16Z",
+      "updated_at": "2026-10-29T18:38:37Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "cli"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "homebridge-philips-air-purifier-ac1715",
+      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "topics": [],
+      "license": "NOASSERTION",
+      "created_at": "2026-07-23T10:28:00Z",
+      "updated_at": "2026-10-29T17:21:43Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "ha-inhabit",
+      "description": "Visual home editor and sensor automation",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/ha-inhabit",
+      "homepage": null,
+      "language": "Python",
+      "stars": 1,
+      "topics": [
+        "hacs",
+        "home-assistant",
+        "home-assistant-custom-component",
+        "homeassistant"
+      ],
+      "license": "MIT",
+      "created_at": "2026-01-28T23:32:01Z",
+      "updated_at": "2026-10-29T16:37:49Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [
+          "home-assistant"
+        ],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-10-29T08:24:18Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "headscale-ingress-operator",
       "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
       "owner": "lucasilverentand",
@@ -60,25 +197,6 @@
         "language": [
           "go"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-10-28T08:24:16Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -157,27 +275,6 @@
       }
     },
     {
-      "name": "homebridge-philips-air-purifier-ac1715",
-      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [],
-      "license": "NOASSERTION",
-      "created_at": "2026-07-23T10:28:00Z",
-      "updated_at": "2026-10-22T07:45:13Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "python"
-        ]
-      }
-    },
-    {
       "name": "runner",
       "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
       "owner": "seventwo-studio",
@@ -232,59 +329,6 @@
       }
     },
     {
-      "name": "skills",
-      "description": "Agentic skills for running a software development business",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 5,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-09-27T14:56:58Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "ha-inhabit",
-      "description": "Visual home editor and sensor automation",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/ha-inhabit",
-      "homepage": null,
-      "language": "Python",
-      "stars": 1,
-      "topics": [
-        "hacs",
-        "home-assistant",
-        "home-assistant-custom-component",
-        "homeassistant"
-      ],
-      "license": "MIT",
-      "created_at": "2026-01-28T23:32:01Z",
-      "updated_at": "2026-09-27T14:52:13Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [
-          "home-assistant"
-        ],
-        "language": [
-          "python"
-        ]
-      }
-    },
-    {
       "name": "artemis-lunar-wallpapers",
       "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
       "owner": "lucasilverentand",
@@ -302,29 +346,6 @@
         "framework": [],
         "language": [
           "astro"
-        ]
-      }
-    },
-    {
-      "name": "kustodian",
-      "description": "A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/kustodian",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2025-12-29T00:57:16Z",
-      "updated_at": "2026-09-27T14:35:05Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "cli"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
