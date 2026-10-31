@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:58:43.474Z",
+  "generated_at": "2026-10-31T07:54:44.325Z",
   "count": 27,
   "projects": [
     {
@@ -36,6 +36,33 @@
       }
     },
     {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-10-30T20:09:03Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
       "name": "BBC",
       "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
       "owner": "lucasilverentand",
@@ -46,7 +73,7 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-10-29T09:25:36Z",
-      "updated_at": "2026-10-30T07:48:10Z",
+      "updated_at": "2026-10-30T17:36:25Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -54,6 +81,25 @@
         "language": [
           "swift"
         ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-10-30T08:34:07Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
@@ -154,25 +200,6 @@
       }
     },
     {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-10-29T08:24:18Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
       "name": "headscale-ingress-operator",
       "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
       "owner": "lucasilverentand",
@@ -196,33 +223,6 @@
         "framework": [],
         "language": [
           "go"
-        ]
-      }
-    },
-    {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-10-24T12:25:33Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
