@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T07:54:44.325Z",
+  "generated_at": "2026-11-01T08:36:37.963Z",
   "count": 27,
   "projects": [
     {
@@ -36,6 +36,46 @@
       }
     },
     {
+      "name": "BBC",
+      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/BBC",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-10-29T09:25:36Z",
+      "updated_at": "2026-10-31T18:09:14Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-10-31T08:22:31Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "claudeline",
       "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
       "owner": "lucasilverentand",
@@ -60,46 +100,6 @@
         "language": [
           "typescript"
         ]
-      }
-    },
-    {
-      "name": "BBC",
-      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/BBC",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-10-29T09:25:36Z",
-      "updated_at": "2026-10-30T17:36:25Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "swift"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-10-30T08:34:07Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {

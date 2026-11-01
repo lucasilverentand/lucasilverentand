@@ -38,8 +38,8 @@
 
 | Project | Description |
 | --- | --- |
-| [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**BBC**](https://github.com/lucasilverentand/BBC) | Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions. |
+| [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
 | [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**homebridge-philips-air-purifier-ac1715**](https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715) | Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control |
