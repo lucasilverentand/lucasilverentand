@@ -38,6 +38,7 @@
 
 | Project | Description |
 | --- | --- |
+| [**positronic**](https://github.com/lucasilverentand/positronic) | A native Mac app with a simple authenticated API for Apple Intelligence and local generation and decision models. |
 | [**BBC**](https://github.com/lucasilverentand/BBC) | Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions. |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
