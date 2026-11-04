@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:55:59.830Z",
+  "generated_at": "2026-11-04T08:29:47.332Z",
   "count": 28,
   "projects": [
     {
@@ -36,6 +36,129 @@
       }
     },
     {
+      "name": "homebridge-philips-air-purifier-ac1715",
+      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "topics": [],
+      "license": "NOASSERTION",
+      "created_at": "2026-07-23T10:28:00Z",
+      "updated_at": "2026-11-03T19:20:41Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-11-03T19:20:08Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
+        ]
+      }
+    },
+    {
+      "name": "positronic",
+      "description": "A native Mac app with a simple authenticated API for Apple Intelligence and local generation and decision models.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/positronic",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-10-29T10:34:28Z",
+      "updated_at": "2026-11-03T18:32:34Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
+      "name": ".github",
+      "description": "Default community health documents for seventwo-studio",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/.github",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "community-health",
+        "github-profile"
+      ],
+      "license": "MIT",
+      "created_at": "2021-06-18T22:20:02Z",
+      "updated_at": "2026-11-03T18:02:58Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "config"
+        ],
+        "framework": [],
+        "language": [
+          "markdown"
+        ]
+      }
+    },
+    {
+      "name": "runner",
+      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/runner",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 1,
+      "topics": [
+        "ci-cd",
+        "docker",
+        "github-actions",
+        "self-hosted-runner"
+      ],
+      "license": null,
+      "created_at": "2026-03-19T18:17:31Z",
+      "updated_at": "2026-11-03T18:01:20Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
       "name": "skills",
       "description": "Agentic skills for running a software development business",
       "owner": "lucasilverentand",
@@ -46,7 +169,7 @@
       "topics": [],
       "license": null,
       "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-11-02T21:51:07Z",
+      "updated_at": "2026-11-03T17:43:06Z",
       "source": "github",
       "tags": {
         "type": [
@@ -55,27 +178,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "BBC",
-      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/BBC",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-10-29T09:25:36Z",
-      "updated_at": "2026-11-02T18:05:24Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "swift"
         ]
       }
     },
@@ -90,7 +192,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-11-02T09:24:23Z",
+      "updated_at": "2026-11-03T09:28:13Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -99,17 +201,17 @@
       }
     },
     {
-      "name": "positronic",
-      "description": "A native Mac app with a simple authenticated API for Apple Intelligence and local generation and decision models.",
+      "name": "BBC",
+      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
       "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/positronic",
+      "url": "https://github.com/lucasilverentand/BBC",
       "homepage": null,
       "language": "Swift",
       "stars": 0,
       "topics": [],
       "license": "MIT",
-      "created_at": "2026-10-29T10:34:28Z",
-      "updated_at": "2026-11-01T19:25:49Z",
+      "created_at": "2026-10-29T09:25:36Z",
+      "updated_at": "2026-11-02T18:05:24Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -170,27 +272,6 @@
       }
     },
     {
-      "name": "homebridge-philips-air-purifier-ac1715",
-      "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [],
-      "license": "NOASSERTION",
-      "created_at": "2026-07-23T10:28:00Z",
-      "updated_at": "2026-10-29T17:21:43Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "python"
-        ]
-      }
-    },
-    {
       "name": "ha-inhabit",
       "description": "Visual home editor and sensor automation",
       "owner": "lucasilverentand",
@@ -217,33 +298,6 @@
         ],
         "language": [
           "python"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-10-28T17:55:52Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
         ]
       }
     },
@@ -292,60 +346,6 @@
         "framework": [],
         "language": [
           "ruby"
-        ]
-      }
-    },
-    {
-      "name": "runner",
-      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/runner",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 1,
-      "topics": [
-        "ci-cd",
-        "docker",
-        "github-actions",
-        "self-hosted-runner"
-      ],
-      "license": null,
-      "created_at": "2026-03-19T18:17:31Z",
-      "updated_at": "2026-10-22T07:39:50Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
-        ]
-      }
-    },
-    {
-      "name": ".github",
-      "description": "Default community health documents for seventwo-studio",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/.github",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "community-health",
-        "github-profile"
-      ],
-      "license": "MIT",
-      "created_at": "2021-06-18T22:20:02Z",
-      "updated_at": "2026-10-22T07:39:45Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "config"
-        ],
-        "framework": [],
-        "language": [
-          "markdown"
         ]
       }
     },
