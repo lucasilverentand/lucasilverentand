@@ -39,10 +39,10 @@
 | Project | Description |
 | --- | --- |
 | [**homebridge-philips-air-purifier-ac1715**](https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715) | Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control |
+| [**BBC**](https://github.com/lucasilverentand/BBC) | Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions. |
 | [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**positronic**](https://github.com/lucasilverentand/positronic) | A native Mac app with a simple authenticated API for Apple Intelligence and local generation and decision models. |
 | [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
-| [**BBC**](https://github.com/lucasilverentand/BBC) | Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions. |
 | [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**kustodian**](https://github.com/lucasilverentand/kustodian) | A GitOps templating framework for Kubernetes with Flux CD - Define templates in YAML, extend with plugins |
 | [**ha-inhabit**](https://github.com/lucasilverentand/ha-inhabit) | Visual home editor and sensor automation |
@@ -61,6 +61,7 @@
 
 | Project | Description |
 | --- | --- |
+| [**canaveral**](https://github.com/seventwo-studio/canaveral) | Self-hosted machine execution controller and outbound runners |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
