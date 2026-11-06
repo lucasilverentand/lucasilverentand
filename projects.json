@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:52:46.768Z",
+  "generated_at": "2026-11-06T08:52:06.713Z",
   "count": 29,
   "projects": [
     {
@@ -36,6 +36,90 @@
       }
     },
     {
+      "name": "skills",
+      "description": "Agentic skills for running a software development business",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 5,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-11-05T22:56:40Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "BBC",
+      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/BBC",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-10-29T09:25:36Z",
+      "updated_at": "2026-11-05T22:52:14Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
+      "name": "canaveral",
+      "description": "Self-hosted machine execution controller and outbound runners",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/canaveral",
+      "homepage": null,
+      "language": "Python",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-11-04T17:09:38Z",
+      "updated_at": "2026-11-05T18:47:40Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "python"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-11-05T09:30:23Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "homebridge-philips-air-purifier-ac1715",
       "description": "Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control",
       "owner": "lucasilverentand",
@@ -54,67 +138,6 @@
         "language": [
           "python"
         ]
-      }
-    },
-    {
-      "name": "canaveral",
-      "description": "Self-hosted machine execution controller and outbound runners",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/canaveral",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-11-04T17:09:38Z",
-      "updated_at": "2026-11-04T22:05:22Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "python"
-        ]
-      }
-    },
-    {
-      "name": "BBC",
-      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/BBC",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-10-29T09:25:36Z",
-      "updated_at": "2026-11-04T19:18:32Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "swift"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-11-04T09:05:18Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -216,29 +239,6 @@
         "framework": [],
         "language": [
           "shell"
-        ]
-      }
-    },
-    {
-      "name": "skills",
-      "description": "Agentic skills for running a software development business",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 5,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-11-03T17:43:06Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
