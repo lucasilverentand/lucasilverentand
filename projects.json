@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:58:56.630Z",
+  "generated_at": "2026-11-10T09:06:55.424Z",
   "count": 29,
   "projects": [
     {
@@ -36,25 +36,6 @@
       }
     },
     {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-11-08T08:56:11Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
       "name": "skills",
       "description": "Agentic skills for running a software development business",
       "owner": "lucasilverentand",
@@ -65,7 +46,7 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-11-05T22:56:40Z",
+      "updated_at": "2026-11-09T17:39:10Z",
       "source": "github",
       "tags": {
         "type": [
@@ -75,6 +56,25 @@
         "language": [
           "typescript"
         ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-11-09T09:43:41Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {
