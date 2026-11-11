@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:06:55.424Z",
+  "generated_at": "2026-11-11T08:45:24.989Z",
   "count": 29,
   "projects": [
     {
@@ -36,6 +36,192 @@
       }
     },
     {
+      "name": ".github",
+      "description": "Default community health documents for seventwo-studio",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/.github",
+      "homepage": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "topics": [
+        "community-health",
+        "github-profile"
+      ],
+      "license": "MIT",
+      "created_at": "2021-06-18T22:20:02Z",
+      "updated_at": "2026-11-11T02:42:44Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "config"
+        ],
+        "framework": [],
+        "language": [
+          "markdown"
+        ]
+      }
+    },
+    {
+      "name": "canaveral",
+      "description": "Self-hosted machine execution controller and outbound runners",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/canaveral",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-11-04T17:09:38Z",
+      "updated_at": "2026-11-11T02:11:44Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "runner",
+      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/runner",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 1,
+      "topics": [
+        "ci-cd",
+        "docker",
+        "github-actions",
+        "self-hosted-runner"
+      ],
+      "license": null,
+      "created_at": "2026-03-19T18:17:31Z",
+      "updated_at": "2026-11-11T01:57:42Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
+      "name": ".github",
+      "description": "GitHub org-wide files and Renovate preset",
+      "owner": "silverswarm",
+      "url": "https://github.com/silverswarm/.github",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-04-22T12:41:51Z",
+      "updated_at": "2026-11-11T01:24:45Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
+      "name": "homebrew-tap",
+      "description": "Homebrew tap for seventwo-studio apps",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/homebrew-tap",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "homebrew",
+        "macos",
+        "tap"
+      ],
+      "license": null,
+      "created_at": "2026-03-16T12:55:22Z",
+      "updated_at": "2026-11-11T01:15:26Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "config"
+        ],
+        "framework": [],
+        "language": [
+          "ruby"
+        ]
+      }
+    },
+    {
+      "name": "devcontainers",
+      "description": "Docker images for GitHub Actions runners and devcontainers with multi-arch support",
+      "owner": "seventwo-studio",
+      "url": "https://github.com/seventwo-studio/devcontainers",
+      "homepage": null,
+      "language": "Shell",
+      "stars": 0,
+      "topics": [
+        "containers",
+        "devcontainer",
+        "docker"
+      ],
+      "license": "MIT",
+      "created_at": "2024-02-07T16:09:24Z",
+      "updated_at": "2026-11-11T01:00:42Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "container"
+        ],
+        "framework": [],
+        "language": [
+          "shell"
+        ]
+      }
+    },
+    {
+      "name": ".github",
+      "description": "GitHub org-wide files and Renovate preset",
+      "owner": "blankly-app",
+      "url": "https://github.com/blankly-app/.github",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2026-04-22T12:41:52Z",
+      "updated_at": "2026-11-11T01:00:36Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-11-10T09:42:57Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "skills",
       "description": "Agentic skills for running a software development business",
       "owner": "lucasilverentand",
@@ -59,25 +245,6 @@
       }
     },
     {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-11-09T09:43:41Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
       "name": "BBC",
       "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
       "owner": "lucasilverentand",
@@ -95,27 +262,6 @@
         "framework": [],
         "language": [
           "swift"
-        ]
-      }
-    },
-    {
-      "name": "canaveral",
-      "description": "Self-hosted machine execution controller and outbound runners",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/canaveral",
-      "homepage": null,
-      "language": "Python",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-11-04T17:09:38Z",
-      "updated_at": "2026-11-05T18:47:40Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "python"
         ]
       }
     },
@@ -185,60 +331,6 @@
         "framework": [],
         "language": [
           "swift"
-        ]
-      }
-    },
-    {
-      "name": ".github",
-      "description": "Default community health documents for seventwo-studio",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/.github",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "community-health",
-        "github-profile"
-      ],
-      "license": "MIT",
-      "created_at": "2021-06-18T22:20:02Z",
-      "updated_at": "2026-11-03T18:02:58Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "config"
-        ],
-        "framework": [],
-        "language": [
-          "markdown"
-        ]
-      }
-    },
-    {
-      "name": "runner",
-      "description": "Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/runner",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 1,
-      "topics": [
-        "ci-cd",
-        "docker",
-        "github-actions",
-        "self-hosted-runner"
-      ],
-      "license": null,
-      "created_at": "2026-03-19T18:17:31Z",
-      "updated_at": "2026-11-03T18:01:20Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
         ]
       }
     },
@@ -344,33 +436,6 @@
       }
     },
     {
-      "name": "homebrew-tap",
-      "description": "Homebrew tap for seventwo-studio apps",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/homebrew-tap",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "homebrew",
-        "macos",
-        "tap"
-      ],
-      "license": null,
-      "created_at": "2026-03-16T12:55:22Z",
-      "updated_at": "2026-10-22T17:19:48Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "config"
-        ],
-        "framework": [],
-        "language": [
-          "ruby"
-        ]
-      }
-    },
-    {
       "name": "artemis-lunar-wallpapers",
       "description": "Free high-resolution wallpapers from NASA's Artemis II mission. Desktop and phone sizes.",
       "owner": "lucasilverentand",
@@ -436,52 +501,6 @@
       }
     },
     {
-      "name": "devcontainers",
-      "description": "Docker images for GitHub Actions runners and devcontainers with multi-arch support",
-      "owner": "seventwo-studio",
-      "url": "https://github.com/seventwo-studio/devcontainers",
-      "homepage": null,
-      "language": "Shell",
-      "stars": 0,
-      "topics": [
-        "containers",
-        "devcontainer",
-        "docker"
-      ],
-      "license": "MIT",
-      "created_at": "2024-02-07T16:09:24Z",
-      "updated_at": "2026-05-18T19:14:35Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "container"
-        ],
-        "framework": [],
-        "language": [
-          "shell"
-        ]
-      }
-    },
-    {
-      "name": ".github",
-      "description": "GitHub org-wide files and Renovate preset",
-      "owner": "silverswarm",
-      "url": "https://github.com/silverswarm/.github",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-04-22T12:41:51Z",
-      "updated_at": "2026-05-15T21:03:50Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
       "name": ".github",
       "description": "GitHub org-wide files and Renovate preset",
       "owner": "ellie-languages",
@@ -493,25 +512,6 @@
       "license": null,
       "created_at": "2026-04-22T12:42:15Z",
       "updated_at": "2026-05-15T20:54:12Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
-      "name": ".github",
-      "description": "GitHub org-wide files and Renovate preset",
-      "owner": "blankly-app",
-      "url": "https://github.com/blankly-app/.github",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2026-04-22T12:41:52Z",
-      "updated_at": "2026-05-15T20:52:30Z",
       "source": "github",
       "tags": {
         "type": [],
