@@ -62,6 +62,7 @@
 | Project | Description |
 | --- | --- |
 | [**canaveral**](https://github.com/seventwo-studio/canaveral) | Self-hosted machine execution controller and outbound runners |
+| [**actions**](https://github.com/seventwo-studio/actions) | Reusable GitHub Actions for PR quality, repository configuration audits, and safe branch maintenance. |
 | [**runner**](https://github.com/seventwo-studio/runner) | Self-hosted GitHub Actions runner image with Playwright, Docker, Bun, and Maestro |
 | [**homebrew-tap**](https://github.com/seventwo-studio/homebrew-tap) | Homebrew tap for seventwo-studio apps |
 | [**devcontainers**](https://github.com/seventwo-studio/devcontainers) | Docker images for GitHub Actions runners and devcontainers with multi-arch support |
