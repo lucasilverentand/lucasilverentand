@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:08:23.876Z",
+  "generated_at": "2026-11-13T08:59:57.019Z",
   "count": 30,
   "projects": [
     {
@@ -46,13 +46,40 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-11-04T17:09:38Z",
-      "updated_at": "2026-11-12T00:19:32Z",
+      "updated_at": "2026-11-13T08:30:03Z",
       "source": "github",
       "tags": {
         "type": [],
         "framework": [],
         "language": [
           "typescript"
+        ]
+      }
+    },
+    {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-11-13T06:16:36Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
         ]
       }
     },
@@ -67,7 +94,7 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-11-11T10:00:05Z",
-      "updated_at": "2026-11-11T19:18:27Z",
+      "updated_at": "2026-11-12T22:37:23Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -88,7 +115,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-11-11T09:18:47Z",
+      "updated_at": "2026-11-12T09:44:47Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -304,33 +331,6 @@
         "framework": [],
         "language": [
           "python"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-11-03T19:20:08Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
         ]
       }
     },
