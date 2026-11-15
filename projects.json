@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:28:44.811Z",
+  "generated_at": "2026-11-15T08:44:41.225Z",
   "count": 30,
   "projects": [
     {
@@ -36,6 +36,46 @@
       }
     },
     {
+      "name": "BBC",
+      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/BBC",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-10-29T09:25:36Z",
+      "updated_at": "2026-11-14T14:11:11Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "swift"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-11-14T08:55:34Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
       "name": "canaveral",
       "description": "Self-hosted machine execution controller and outbound runners",
       "owner": "seventwo-studio",
@@ -54,25 +94,6 @@
         "language": [
           "typescript"
         ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-11-13T09:27:49Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
       }
     },
     {
@@ -289,27 +310,6 @@
         "framework": [],
         "language": [
           "typescript"
-        ]
-      }
-    },
-    {
-      "name": "BBC",
-      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/BBC",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-10-29T09:25:36Z",
-      "updated_at": "2026-11-05T22:52:14Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "swift"
         ]
       }
     },
