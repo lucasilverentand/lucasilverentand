@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T09:39:08.266Z",
+  "generated_at": "2026-11-19T09:45:42.432Z",
   "count": 30,
   "projects": [
     {
@@ -36,27 +36,6 @@
       }
     },
     {
-      "name": "BBC",
-      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/BBC",
-      "homepage": null,
-      "language": "Swift",
-      "stars": 0,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-10-29T09:25:36Z",
-      "updated_at": "2026-11-17T22:32:08Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "swift"
-        ]
-      }
-    },
-    {
       "name": "canaveral",
       "description": "Self-hosted machine execution controller and outbound runners",
       "owner": "seventwo-studio",
@@ -67,10 +46,37 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-11-04T17:09:38Z",
-      "updated_at": "2026-11-17T21:37:06Z",
+      "updated_at": "2026-11-19T09:40:11Z",
       "source": "github",
       "tags": {
         "type": [],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-11-18T23:58:24Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
         "framework": [],
         "language": [
           "typescript"
@@ -88,7 +94,7 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-11-17T15:10:14Z",
+      "updated_at": "2026-11-18T22:20:46Z",
       "source": "github",
       "tags": {
         "type": [
@@ -97,6 +103,46 @@
         "framework": [],
         "language": [
           "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-11-18T10:04:30Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
+      }
+    },
+    {
+      "name": "BBC",
+      "description": "Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions.",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/BBC",
+      "homepage": null,
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-10-29T09:25:36Z",
+      "updated_at": "2026-11-17T22:32:08Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "swift"
         ]
       }
     },
@@ -125,52 +171,6 @@
         "framework": [],
         "language": [
           "shell"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-11-17T10:39:35Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-11-15T12:14:06Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
         ]
       }
     },
