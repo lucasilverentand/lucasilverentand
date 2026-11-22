@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:05:41.660Z",
+  "generated_at": "2026-11-22T09:14:38.043Z",
   "count": 30,
   "projects": [
     {
@@ -46,79 +46,10 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-11-04T17:09:38Z",
-      "updated_at": "2026-11-21T05:20:30Z",
+      "updated_at": "2026-11-21T21:52:48Z",
       "source": "github",
       "tags": {
         "type": [],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "lucasilverentand",
-      "description": "GitHub profile README",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/lucasilverentand",
-      "homepage": null,
-      "language": null,
-      "stars": 0,
-      "topics": [],
-      "license": null,
-      "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-11-20T09:57:57Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": []
-      }
-    },
-    {
-      "name": "claudeline",
-      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/claudeline",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 1,
-      "topics": [
-        "ai",
-        "claude",
-        "tool"
-      ],
-      "license": "MIT",
-      "created_at": "2026-02-01T01:25:48Z",
-      "updated_at": "2026-11-18T23:58:24Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
-        "framework": [],
-        "language": [
-          "typescript"
-        ]
-      }
-    },
-    {
-      "name": "skills",
-      "description": "Agentic skills for running a software development business",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/skills",
-      "homepage": null,
-      "language": "TypeScript",
-      "stars": 5,
-      "topics": [],
-      "license": "MIT",
-      "created_at": "2026-01-23T22:58:31Z",
-      "updated_at": "2026-11-18T22:20:46Z",
-      "source": "github",
-      "tags": {
-        "type": [
-          "plugin"
-        ],
         "framework": [],
         "language": [
           "typescript"
@@ -136,7 +67,7 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-10-29T09:25:36Z",
-      "updated_at": "2026-11-17T22:32:08Z",
+      "updated_at": "2026-11-21T19:45:36Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -144,6 +75,75 @@
         "language": [
           "swift"
         ]
+      }
+    },
+    {
+      "name": "skills",
+      "description": "Agentic skills for running a software development business",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/skills",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 5,
+      "topics": [],
+      "license": "MIT",
+      "created_at": "2026-01-23T22:58:31Z",
+      "updated_at": "2026-11-21T19:45:25Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "claudeline",
+      "description": "Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/claudeline",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 1,
+      "topics": [
+        "ai",
+        "claude",
+        "tool"
+      ],
+      "license": "MIT",
+      "created_at": "2026-02-01T01:25:48Z",
+      "updated_at": "2026-11-21T17:56:28Z",
+      "source": "github",
+      "tags": {
+        "type": [
+          "plugin"
+        ],
+        "framework": [],
+        "language": [
+          "typescript"
+        ]
+      }
+    },
+    {
+      "name": "lucasilverentand",
+      "description": "GitHub profile README",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/lucasilverentand",
+      "homepage": null,
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "license": null,
+      "created_at": "2020-11-03T13:48:13Z",
+      "updated_at": "2026-11-21T09:42:48Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": []
       }
     },
     {

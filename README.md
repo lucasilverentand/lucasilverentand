@@ -38,9 +38,9 @@
 
 | Project | Description |
 | --- | --- |
-| [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
-| [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
 | [**BBC**](https://github.com/lucasilverentand/BBC) | Blue Bubble Club — a local iMessage transport for macOS, with a Swift client and native actions. |
+| [**skills**](https://github.com/lucasilverentand/skills) | Agentic skills for running a software development business |
+| [**claudeline**](https://github.com/lucasilverentand/claudeline) | Customizable status line for Claude Code with themes, git, cost tracking, and usage monitoring |
 | [**headscale-ingress-operator**](https://github.com/lucasilverentand/headscale-ingress-operator) | Kubernetes operator for publishing Headscale-backed ingress DNS records |
 | [**homebridge-philips-air-purifier-ac1715**](https://github.com/lucasilverentand/homebridge-philips-air-purifier-ac1715) | Privacy-safe Homebridge fork with verified Philips AC1715 local CoAP control |
 | [**positronic**](https://github.com/lucasilverentand/positronic) | A native Mac app with a simple authenticated API for Apple Intelligence and local generation and decision models. |
