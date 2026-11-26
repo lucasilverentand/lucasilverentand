@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:47:51.984Z",
+  "generated_at": "2026-11-26T10:21:05.355Z",
   "count": 30,
   "projects": [
     {
@@ -36,6 +36,33 @@
       }
     },
     {
+      "name": "headscale-ingress-operator",
+      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
+      "owner": "lucasilverentand",
+      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
+      "homepage": null,
+      "language": "Go",
+      "stars": 0,
+      "topics": [
+        "headscale",
+        "helm",
+        "ingress",
+        "kubernetes",
+        "operator"
+      ],
+      "license": "NOASSERTION",
+      "created_at": "2026-05-22T21:26:27Z",
+      "updated_at": "2026-11-26T00:15:02Z",
+      "source": "github",
+      "tags": {
+        "type": [],
+        "framework": [],
+        "language": [
+          "go"
+        ]
+      }
+    },
+    {
       "name": "canaveral",
       "description": "Self-hosted machine execution controller and outbound runners",
       "owner": "seventwo-studio",
@@ -46,7 +73,7 @@
       "topics": [],
       "license": "MIT",
       "created_at": "2026-11-04T17:09:38Z",
-      "updated_at": "2026-11-24T18:29:05Z",
+      "updated_at": "2026-11-25T19:32:56Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -67,7 +94,7 @@
       "topics": [],
       "license": null,
       "created_at": "2020-11-03T13:48:13Z",
-      "updated_at": "2026-11-24T12:24:24Z",
+      "updated_at": "2026-11-25T11:12:49Z",
       "source": "github",
       "tags": {
         "type": [],
@@ -171,33 +198,6 @@
         "framework": [],
         "language": [
           "shell"
-        ]
-      }
-    },
-    {
-      "name": "headscale-ingress-operator",
-      "description": "Kubernetes operator for publishing Headscale-backed ingress DNS records",
-      "owner": "lucasilverentand",
-      "url": "https://github.com/lucasilverentand/headscale-ingress-operator",
-      "homepage": null,
-      "language": "Go",
-      "stars": 0,
-      "topics": [
-        "headscale",
-        "helm",
-        "ingress",
-        "kubernetes",
-        "operator"
-      ],
-      "license": "NOASSERTION",
-      "created_at": "2026-05-22T21:26:27Z",
-      "updated_at": "2026-11-13T06:16:36Z",
-      "source": "github",
-      "tags": {
-        "type": [],
-        "framework": [],
-        "language": [
-          "go"
         ]
       }
     },
